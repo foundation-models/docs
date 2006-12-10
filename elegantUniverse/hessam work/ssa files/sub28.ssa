@@ -1,0 +1,26 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:42:38.00,00:42:42.21,Default,NTP,0000,0000,0000,!Effect,کردند اتم وارسي به شروع نظري فيزيکدانان ي جامعه ﻿وقتي 
+Dialogue: Marked=0,00:42:42.36,00:42:46.95,Default,NTP,0000,0000,0000,!Effect,افتاد عقب قطعاً انشتين 
+Dialogue: Marked=0,00:42:47.11,00:42:50.08,Default,NTP,0000,0000,0000,!Effect,که کرد مي سعي دليلي به او 
+Dialogue: Marked=0,00:42:50.22,00:42:53.80,Default,NTP,0000,0000,0000,!Effect,نکند نگاه آمد مي دست به ها آزمايش اين از که فيزيکي به اصلاً 
+Dialogue: Marked=0,00:42:53.99,00:42:58.19,Default,NTP,0000,0000,0000,!Effect,کوانتوم قوانين يعني 
+Dialogue: Marked=0,00:42:58.35,00:43:02.06,Default,NTP,0000,0000,0000,!Effect,نداشتند اش بعدي هاي تفحّص در نقشي هيچ 
+Dialogue: Marked=0,00:43:03.30,00:43:07.81,Default,NTP,0000,0000,0000,!Effect,که مهربان پير شخصيت يک مثل 
+Dialogue: Marked=0,00:43:08.16,00:43:11.99,Default,NTP,0000,0000,0000,!Effect,اقتاد عقب آن از دليلي به ولي کرد شروع را انقلابي 
+Dialogue: Marked=0,00:43:13.28,00:43:18.62,Default,NTP,0000,0000,0000,!Effect,است سواري اسب استاد که ژنرال يک که ماند مي اين مثل 
+Dialogue: Marked=0,00:43:18.80,00:43:23.57,Default,NTP,0000,0000,0000,!Effect,سوارش اسب سربازهاي با کند سعي کرده کسب را زيادي چيزهاي اول جهاني جنگ در و 
+Dialogue: Marked=0,00:43:23.76,00:43:29.23,Default,NTP,0000,0000,0000,!Effect,ها سنگر و اتوماتيک هاي تفنگ عليه 
+Dialogue: Marked=0,00:43:29.37,00:43:34.58,Default,NTP,0000,0000,0000,!Effect,بجنگد مقابل ي جبهه خاردارهاي سيم و 
+Dialogue: Marked=0,00:43:36.91,00:43:41.62,Default,NTP,0000,0000,0000,!Effect,مرد ١٩٥٥ آوريل ١٨ در اينشتين آلبرت 
+Dialogue: Marked=0,00:43:41.88,00:43:45.77,Default,NTP,0000,0000,0000,!Effect,اينشتين آرزوي انگار بعد هاي سال براي و 
+Dialogue: Marked=0,00:43:45.92,00:43:51.10,Default,NTP,0000,0000,0000,!Effect,مُرد او همراه شوند داده وحدت تئوري يک در را ها نيرو که 

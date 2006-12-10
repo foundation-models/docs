@@ -1,0 +1,26 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:06:05.00,00:06:07.69,Default,NTP,0000,0000,0000,!Effect,...بعد قرن نيم تقريباً حالا ﻿و 
+Dialogue: Marked=0,00:06:08.27,00:06:10.08,Default,NTP,0000,0000,0000,!Effect, انشتين؛ وحدت هدف
+Dialogue: Marked=0,00:06:10.65,00:06:15.41,Default,NTP,0000,0000,0000,!Effect,گيرنده بر در تئوريِ يك در جهان قوانين تمام کردن جمع يعني 
+Dialogue: Marked=0,00:06:15.41,00:06:20.00,Default,NTP,0000,0000,0000,!Effect,است شده مدرن فيزيك آرزوي 
+Dialogue: Marked=0,00:06:20.50,00:06:24.00,Default,NTP,0000,0000,0000,!Effect,كنيم برآورده را انشتين آرزوي بتوانيم بالاخره كه كنيم مي گمان و 
+Dialogue: Marked=0,00:06:24.15,00:06:29.30,Default,NTP,0000,0000,0000,!Effect,ريسمان تئوري نام به جديد ي ايده سري يك با 
+Dialogue: Marked=0,00:06:29.60,00:06:34.98,Default,NTP,0000,0000,0000,!Effect, بُرّد مي مان همه کف باشد درست انقلابي تئوري اين اگر ولي 
+Dialogue: Marked=0,00:06:36.60,00:06:38.05,Default,NTP,0000,0000,0000,!Effect, :که گويد مي ريسمان تئوري
+Dialogue: Marked=0,00:06:38.05,00:06:43.05,Default,NTP,0000,0000,0000,!Effect,پيوندند مي واقعيت به تخيلي علمي هاي داستان که هستيم عالمي در ما
+Dialogue: Marked=0,00:06:44.50,00:06:52.79,Default,NTP,0000,0000,0000,!Effect,ها نزديکي همين در موازي هاي عالم و ...بعد يازده با جهاني 
+Dialogue: Marked=0,00:06:54.41,00:07:00.20,Default,NTP,0000,0000,0000,!Effect,شده نواخته ها ريسمان آهنگ از تماماً كه زيبا و ظريف عالمي 
+Dialogue: Marked=0,00:07:04.00,00:07:10.00,Default,NTP,0000,0000,0000,!Effect,است ساده خيلي ريسمان تئوري اصلي ي ايده ،ادّعا همه اين با اما 
+Dialogue: Marked=0,00:07:11.25,00:07:17.20,Default,NTP,0000,0000,0000,!Effect,،ستاره ترين دوردست تا ذره كوچكترين از ،جهان چيز همه :گويد مي 
+Dialogue: Marked=0,00:07:17.20,00:07:20.00,Default,NTP,0000,0000,0000,!Effect,اند شده ساخته عنصر يك از همه 
+Dialogue: Marked=0,00:07:21.00,00:07:27.00,Default,NTP,0000,0000,0000,!Effect,ريسمان نام به ريز خيلي انرژي مرتعش هاي رشته 

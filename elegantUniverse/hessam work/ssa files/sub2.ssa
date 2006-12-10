@@ -1,0 +1,26 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:08:45.20,00:08:47.18,Default,NTP,0000,0000,0000,!Effect,[ندارد ترجمه به ﻿نيازي]
+Dialogue: Marked=0,00:08:47.89,00:08:54.28,Default,NTP,0000,0000,0000,!Effect,هست «تنسور ريچي» اين هست «اسکالر خميدگي» اون نه 
+Dialogue: Marked=0,00:08:55.38,00:08:58.24,Default,NTP,0000,0000,0000,!Effect,خواندي؟ را هايت درس تو اصلاً ...ببينم
+Dialogue: Marked=0,00:08:59.76,00:09:04.69,Default,NTP,0000,0000,0000,!Effect,بياموزيد سگ يك به را فيزيك توانيد نمي ،كنيد سعي چقدر هر 
+Dialogue: Marked=0,00:09:05.60,00:09:08.79,Default,NTP,0000,0000,0000,!Effect,کشد نمي چيزها اين براي آنها مغز 
+Dialogue: Marked=0,00:09:10.61,00:09:12.99,Default,NTP,0000,0000,0000,!Effect,چي؟ خودمان ولي 
+Dialogue: Marked=0,00:09:13.57,00:09:18.30,Default,NTP,0000,0000,0000,!Effect,بفهميم؟ را عالم قوانين ترين پيچيده و ترين عميق توانيم مي ما معلوم كجا از 
+Dialogue: Marked=0,00:09:20.36,00:09:24.00,Default,NTP,0000,0000,0000,!Effect,توانيم مي كه دارند ايمان فيزيكدانان ،خوب 
+Dialogue: Marked=0,00:09:24.80,00:09:30.72,Default,NTP,0000,0000,0000,!Effect,يابيم دست وحدت به و کنيم تکميل كه انشتين راه داريم قصد ما و 
+Dialogue: Marked=0,00:09:33.61,00:09:37.80,Default,NTP,0000,0000,0000,!Effect, است قانوني فرمول درحقيقت وحدت 
+Dialogue: Marked=0,00:09:37.96,00:09:44.71,Default,NTP,0000,0000,0000,!Effect,کند توصيف ،اَبَرمعادله يک ،نظريه يک فقط در ،را جهان ي شده شناخته چيزهاي تمام که
+Dialogue: Marked=0,00:09:44.87,00:09:48.37,Default,NTP,0000,0000,0000,!Effect,باشد داشته وجود معادله اين کنيم مي فکر ما و 
+Dialogue: Marked=0,00:09:48.52,00:09:51.93,Default,NTP,0000,0000,0000,!Effect,اخير سال ۲۰۰ ي دوره طي چون 
+Dialogue: Marked=0,00:09:52.06,00:09:58.37,Default,NTP,0000,0000,0000,!Effect,...کنند مي اشاره سو يک به همه كه ،داده متفاوتي توجيهات عالم از ما درک 
+Dialogue: Marked=0,00:09:58.50,00:10:03.93,Default,NTP,0000,0000,0000,!Effect,هستيم دنبالش هنوز ما که ،هستند رس هم اصول سري يک به شان همه انگار 

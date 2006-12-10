@@ -1,0 +1,66 @@
+[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:00:00.00,00:00:02.45,Default,NTP,0000,0000,0000,!Effect,ÈÑäÇãå Çíä ÏÑ ?Çßäæä 
+Dialogue: Marked=0,00:00:02.97,00:00:07.06,Default,NTP,0000,0000,0000,!Effect,ÂãÏíÏ ÎæÔ ÊÎíá ÇÒ ÊÑ ÚÌíÈ ÏäíÇíí Èå 
+Dialogue: Marked=0,00:00:07.74,00:00:10.51,Default,NTP,0000,0000,0000,!Effect,ÔæäÏ ãí Ô˜ÓÊå ÈÇÒí ŞæÇäíä Âä ÏÑ ßå 
+Dialogue: Marked=0,00:00:11.03,00:00:16.21,Default,NTP,0000,0000,0000,!Effect,ÈÑÏ ãí åÇ ÎíÇá åÇí ãÑÒ ÇÒ İÑÇÊÑ ÑÇ ÔãÇ ÏäíÇ Èå äÓÈÊ ÏíÑí ÏíÏÇå æ 
+Dialogue: Marked=0,00:00:17.12,00:00:19.80,Default,NTP,0000,0000,0000,!Effect,åÇÓÊ ÑíÓãÇä ÏäíÇí ÏäíÇ Çíä 
+Dialogue: Marked=0,00:00:20.83,00:00:24.00,Default,NTP,0000,0000,0000,!Effect,ãæÇÏ ÊãÇã æ äíÑæ åÑ ÊæÌíå ÈÑÇí ÑÇåí 
+Dialogue: Marked=0,00:00:24.18,00:00:27.35,Default,NTP,0000,0000,0000,!Effect, ...åÇ ßåßÔÇä ÇäÊåÇí ÊÇ ...Òãíä ÊÇ ...ÑİÊå ÇÊã ÇÒ 
+Dialogue: Marked=0,00:00:28.20,00:00:31.18,Default,NTP,0000,0000,0000,!Effect,ÇÔ áÍÙå ÂÎÑíä ÊÇ ...ÒãÇä ÊæáÏ ÇÒ 
+Dialogue: Marked=0,00:00:32.13,00:00:33.70,Default,NTP,0000,0000,0000,!Effect, ...ÊÆæÑí íß ÏÑ ÊäåÇ 
+Dialogue: Marked=0,00:00:34.36,00:00:36.80,Default,NTP,0000,0000,0000,!Effect,íÒ åãå ÊÆæÑí 
+Dialogue: Marked=0,00:00:38.31,00:00:41.61,Default,NTP,0000,0000,0000,!Effect,ÇÓÊ «Ñíä ÈÑÇíä» ÏäíÇ Çíä Èå ãÇ ÑÇåäãÇí 
+Dialogue: Marked=0,00:00:41.99,00:00:43.88,Default,NTP,0000,0000,0000,!Effect,İíÒíßí ˜ÊÇÈ ÊÑíä İÑæÔ Ñ í äæíÓäÏå 
+Dialogue: Marked=0,00:00:44.42,00:00:45.90,Default,NTP,0000,0000,0000,!Effect, ...Âíã ãí ÇíäÌÇ Èå ŞÏÑ åÑ æ 
+Dialogue: Marked=0,00:00:45.90,00:00:47.76,Default,NTP,0000,0000,0000,!Effect,ßäã äãí ÚÇÏÊ ÈöåöÔ ÇÕáÇğ 
+Dialogue: Marked=0,00:00:49.90,00:00:53.00,Default,NTP,0000,0000,0000,!Effect,ßäíã¿ Íá ÑÇ ãÏÑä İíÒíß ãÓÃáå ÊÑíä ÈÒÑ ÊÇ ßäÏ ßãß ÑÇ ãÇ ÊæÇäÏ ãí Çæ ÂíÇ 
+Dialogue: Marked=0,00:00:55.00,00:01:01.56,Default,NTP,0000,0000,0000,!Effect,ÇäÏ ãÊäÇŞÖ ßå ...ÇÓÊ ŞÇäæä ÓÑí Ïæ ÇÓÇÓ ÈÑ ÚÇáã ÇÒ ãÇ İåã ßå 
+Dialogue: Marked=0,00:01:02.00,00:01:09.00,Default,NTP,0000,0000,0000,!Effect,ÈæÏ Çæ í ãÔÛáå ÂÎÑíä æ ĞÇÔÊ ßÇÑ ÓÑ ÑÇ ÇäÔÊíä ÍÊí ãÓÃáå Çíä ßÑÏä Íá 
+Dialogue: Marked=0,00:01:09.64,00:01:15.30,Default,NTP,0000,0000,0000,!Effect,ÈÇÔíã ÈÒÑí ßÔİ í ÂÓÊÇäå ÏÑ ÇÓÊ ãã˜ä ÓÇá ÏååÇ ÇÒ Ó 
+Dialogue: Marked=0,00:01:18.50,00:01:21.50,Default,NTP,0000,0000,0000,!Effect, ...ÇÓÊ ÑíÓãÇä ÇÔ ÇÑå 
+Dialogue: Marked=0,00:01:21.75,00:01:25.80,Default,NTP,0000,0000,0000,!Effect,ßääÏ ãí ÇÑÊÚÇÔ öáæ åÇí ÊÇÑ ãÇääÏ ßå ÇäÑí ßæß åÇí ĞÑå 
+Dialogue: Marked=0,00:01:26.20,00:01:30.00,Default,NTP,0000,0000,0000,!Effect,ÏÇÑäÏ ŞÑÇÑ ÚÙíãí ˜íåÇäí Óãİæäí˜ ŞáÈ ÏÑ ßå 
+Dialogue: Marked=0,00:01:31.91,00:01:33.50,Default,NTP,0000,0000,0000,!Effect, ...ÔæÏ ãí ÊãÇã ŞíãÊí Èå ÇãÇ 
+Dialogue: Marked=0,00:01:34.00,00:01:37.50,Default,NTP,0000,0000,0000,!Effect,ÈõÚÏ íÇÒÏå æ ¡ãæÇÒí åÇí ÚÇáã 
+Dialogue: Marked=0,00:01:37.80,00:01:39.96,Default,NTP,0000,0000,0000,!Effect,ÇíÏ äÏíÏå ÇÕáÇğ ˜å åÇíí íÒ ÈíÔÊÑ 
+Dialogue: Marked=0,00:01:40.00,00:01:44.30,Default,NTP,0000,0000,0000,!Effect,ÏÇÑÏ Çí ÇÖÇİå åÇí ÈõÚÏ ˜å ¡ÈÇÔíã ÌåÇäí ÏÑ ãÇ ÇÓÊ ãã˜ä æÇŞÚÇğ 
+Dialogue: Marked=0,00:01:44.30,00:01:50.40,Default,NTP,0000,0000,0000,!Effect,ÈæÏäÏ áÇÈí ¡ÔÏäÏ ãí ÔäÇÎÊå Îõá ÚäæÇä Èå ÏÇÑäÏ æÌæÏ ÇÖÇİí ÈõÚÏåÇí İÊäÏ ãí ßå ßÓÇäí 
+Dialogue: Marked=0,00:01:50.50,00:01:53.50,Default,NTP,0000,0000,0000,!Effect, ...Úáæã¿ æ ÑíÇÖí ÇÒ ÓÑÇÈí 
+Dialogue: Marked=0,00:01:54.05,00:01:56.57,Default,NTP,0000,0000,0000,!Effect,íÒ åãå äåÇíí ÊÆæÑí íÇ... 
+Dialogue: Marked=0,00:01:56.60,00:02:01.31,Default,NTP,0000,0000,0000,!Effect, ...ÈÏåÏ ÂÒãÇíÔí ŞÇÈá Èíäí íÔ äÊæÇäÏ ÑíÓãÇä ÊÆæÑí ÇÑ 
+Dialogue: Marked=0,00:02:01.68,00:02:03.65,Default,NTP,0000,0000,0000,!Effect,ßäÏ ÈÇæÑÔ äÈÇíÏ ßÓ åí Ó... 
+Dialogue: Marked=0,00:02:03.70,00:02:06.50,Default,NTP,0000,0000,0000,!Effect,İáÓİå¿ íÇ ...ÇÓÊ¿ İíÒíßí ÊÆæÑí í˜ Çíä 
+Dialogue: Marked=0,00:02:06.60,00:02:08.40,Default,NTP,0000,0000,0000,!Effect, ...ÇÓÊ ŞØÚí ßå íÒ í˜ 
+Dialogue: Marked=0,00:02:08.40,00:02:11.15,Default,NTP,0000,0000,0000,!Effect,¡˜å ÏåÏ ãí äÔÇä ãÇ Èå ÏÇÑÏ ÑíÓãÇä ÊÆæÑí ßå ÇÓÊ Çíä... 
+Dialogue: Marked=0,00:02:11.15,00:02:15.50,Default,NTP,0000,0000,0000,!Effect,ßÑÏíã ãí ÊÕæÑ ˜å ÇÓÊ Âäí ÇÒ ÊÑ ÚÌíÈ Îíáí ãÇ ÏäíÇí 
+Dialogue: Marked=0,00:02:16.50,00:02:18.00,Default,NTP,0000,0000,0000,!Effect,:ŞÓãÊ Çíä ÏÑ 
+Dialogue: Marked=0,00:02:19.50,00:02:21.00,Default,NTP,0000,0000,0000,!Effect,ÔÏ ÔÑæÚ ÓíÈ í˜ ÈÇ ÇÔ åãå 
+Dialogue: Marked=0,00:02:21.60,00:02:23.75,Default,NTP,0000,0000,0000,!Effect,¡äíæÊæä ãÚÇÏáÇÊ ãæİŞíÊ ÊãÇã 
+Dialogue: Marked=0,00:02:23.80,00:02:28.40,Default,NTP,0000,0000,0000,!Effect,ÈæÏ åÇ ÓíÇÑå æ åÇ ÓÊÇÑå İåãíÏä ÈÑÇí Çæ ÌÓÊÌæí ÇÒ 
+Dialogue: Marked=0,00:02:28.60,00:02:30.45,Default,NTP,0000,0000,0000,!Effect,Çíã ÂãÏå ÑÇ ÒíÇÏí ÑÇå ãæŞÚ Çæä ÇÒ æ 
+Dialogue: Marked=0,00:02:30.50,00:02:35.30,Default,NTP,0000,0000,0000,!Effect,ÏÇÏ ÇÑÇÆå ÌÇĞÈå ãÇåíÊ ÇÒ ÌÏíÏí ÊÕæíÑ ÏäíÇ Èå ÇäÔÊíä 
+Dialogue: Marked=0,00:02:35.90,00:02:40.05,Default,NTP,0000,0000,0000,!Effect,ÈÑæäÏ ˜ääÏ ãí ÌÑÃÊ ÏÇäÔãäÏÇä ÇãÑæÒ äÑİÊ Çæ ˜å ÌÇíí 
+Dialogue: Marked=0,00:02:40.10,00:02:44.50,Default,NTP,0000,0000,0000,!Effect,ßääÏ ÈÑÂæÑÏå ÑÇ ÇäÔÊíä ÂÑÒæí ˜å åÓÊäÏ äÒÏíß ŞÏÑ æáí 
+Dialogue: Marked=0,00:02:44.80,00:02:47.90,Default,NTP,0000,0000,0000,!Effect,˜äíÏ ÊãÇÔÇ Ç˜äæä åã ÑÇ ÒíÈÇ ÚÇáã 
+Dialogue: Marked=0,00:04:28.00,00:04:35.41,Default,NTP,0000,0000,0000,!Effect,ÒíÈÇ ÚÇáã 
+Dialogue: Marked=0,00:04:42.61,00:04:46.75,Default,NTP,0000,0000,0000,!Effect,ÇäÔÊíä ÂÑÒæí 
+Dialogue: Marked=0,00:05:01.00,00:05:02.29,Default,NTP,0000,0000,0000,!Effect,íÔ ÓÇá ?? 
+Dialogue: Marked=0,00:05:02.60,00:05:06.72,Default,NTP,0000,0000,0000,!Effect,ÈæÏ ãÏÑä Úáã ãÚãÇåÇí ÈÒÑÊÑíä ÇÒ íßí í ÕÍäå ¡ÎÇäå Çíä 
+Dialogue: Marked=0,00:05:07.36,00:05:14.95,Default,NTP,0000,0000,0000,!Effect,åÓÊäÏ Âä ÌæÇÈ í ÏÑ İíÒíßÏÇäÇä åã åäæÒ ßå ÚãíŞ ŞÏÑí Èå ãÚãÇíí 
+Dialogue: Marked=0,00:05:15.99,00:05:22.50,Default,NTP,0000,0000,0000,!Effect,ĞÑÇäÏ ÎÇäå Çíä ÏÑ «ÑíäÓÊæä» ÏÑ ÑÇ ÚãÑÔ ÂÎÑ ÓÇá ?? ÇäÔÊíä 
+Dialogue: Marked=0,00:05:24.43,00:05:29.99,Default,NTP,0000,0000,0000,!Effect,ÔÊ ãí ÊÆæÑí í˜ ÏäÈÇá ÓÎÊ ÏæãÔ í ØÈŞå í ãØÇáÚå ÇÊÇŞ ÏÑ æ 
+Dialogue: Marked=0,00:05:30.31,00:05:35.60,Default,NTP,0000,0000,0000,!Effect,˜äÏ ÈíÇä ÑÇ ÌåÇä Úãá˜ÑÏ ÊãÇã ˜å Şæí ÂäŞÏÑ Çí ÊÆæÑí 
+Dialogue: Marked=0,00:05:38.30,00:05:44.10,Default,NTP,0000,0000,0000,!Effect,ÏÇÔÊ ãí äå ÎæÏÔ íÔ íÇÏÏÇÔÊí ÏİÊÑå Çæ ÚãÑÔ ÇæÇÎÑ ÊÇ 
+Dialogue: Marked=0,00:05:44.10,00:05:51.60,Default,NTP,0000,0000,0000,!Effect,íÒ åãå ÊÆæÑí äÇã Èå ÈíÇæÑÏ ÏÑ Çí ãÚÇÏáå ÊÇ ˜æÔíÏ ãí ãÊáÇØã æ ãÔæÔ 
+Dialogue: Marked=0,00:05:52.55,00:05:57.51,Default,NTP,0000,0000,0000,!Effect,ÈæÏ Úáã ÊÇÑíÎ ˜Ôİ ÊÑíä ãåã í ÂÓÊÇäå ÏÑ ˜å ÈæÏ ãÊŞÇÚÏ 
+Dialogue: Marked=0,00:05:57.76,00:06:03.70,Default,NTP,0000,0000,0000,!Effect, ...äÇÊãÇã ÂÑÒæííÔ ÂæÑÏ ˜ã æŞÊ æáí 

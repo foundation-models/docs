@@ -1,0 +1,31 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:36:04.20,00:36:05.81,Default,NTP,0000,0000,0000,!Effect,که گويد مي کوانتوم ﻿مکانيک 
+Dialogue: Marked=0,00:36:06.10,00:36:09.22,Default,NTP,0000,0000,0000,!Effect,بدانيد را آزمايش يک قطعي ي نتيجه توانيد نمي شما 
+Dialogue: Marked=0,00:36:09.45,00:36:13.86,Default,NTP,0000,0000,0000,!Effect,بدهيد نسبت خاص ي نتيجه يک به احتمال يک توانيد مي فقط 
+Dialogue: Marked=0,00:36:14.35,00:36:16.69,Default,NTP,0000,0000,0000,!Effect,آمد مي بَدِش شديداً اين از اينشتين و
+Dialogue: Marked=0,00:36:16.91,00:36:19.95,Default,NTP,0000,0000,0000,!Effect,«اندازد نمي تاس خدا» :گفت مي هميشه او 
+Dialogue: Marked=0,00:36:20.72,00:36:27.93,Default,NTP,0000,0000,0000,!Effect,کند مي اشتباه اينشتين که دادند نشان ،ديگري از پس يکي ،ها آزمايش که حالي در 
+Dialogue: Marked=0,00:36:28.22,00:36:34.35,Default,NTP,0000,0000,0000,!Effect,کند مي بيان را کوچک مقياسهاي جهانِ عملکرد واقعاً کوانتوم مکانيک و 
+Dialogue: Marked=0,00:36:35.80,00:36:37.70,Default,NTP,0000,0000,0000,!Effect,...نيست تجملات کوانتوم مکانيک پس 
+Dialogue: Marked=0,00:36:37.75,00:36:40.00,Default,NTP,0000,0000,0000,!Effect,کند کار چيز همه آن بدون که ؛چيزي
+Dialogue: Marked=0,00:36:40.00,00:36:42.32,Default,NTP,0000,0000,0000,!Effect,است؟ طوري اين آب چرا ،يعني 
+Dialogue: Marked=0,00:36:42.32,00:36:43.90,Default,NTP,0000,0000,0000,!Effect,شود؟ مي رد صاف آب از نور چرا 
+Dialogue: Marked=0,00:36:43.90,00:36:46.80,Default,NTP,0000,0000,0000,!Effect, نيستند؟ شفاف ها چيز ي بقيه چرا است؟ شفاف  چرا
+Dialogue: Marked=0,00:36:46.80,00:36:48.15,Default,NTP,0000,0000,0000,!Effect,آيند؟ مي وجود به چگونه مولکولها 
+Dialogue: Marked=0,00:36:48.15,00:36:51.15,Default,NTP,0000,0000,0000,!Effect,دهند؟ مي واکنش هم با اينگونه چرا 
+Dialogue: Marked=0,00:36:51.99,00:36:56.57,Default,NTP,0000,0000,0000,!Effect,،بفهميد اتم زير مقياس در را چيزي بخواهيد گاه هر 
+Dialogue: Marked=0,00:36:56.73,00:36:59.50,Default,NTP,0000,0000,0000,!Effect,،باشد شهودي غير چند هر
+Dialogue: Marked=0,00:37:00.00,00:37:03.28,Default,NTP,0000,0000,0000,!Effect,کنيد پيشرفت کوانتوم مکانيک از استفاده با توانيد مي فقط موقع آن 
+Dialogue: Marked=0,00:37:04.41,00:37:06.82,Default,NTP,0000,0000,0000,!Effect,است بوده دقيق آوري شگفت طرز به کوانتوم مکانيک 
+Dialogue: Marked=0,00:37:06.99,00:37:11.31,Default,NTP,0000,0000,0000,!Effect,نبوده کوانتوم در اي بيني پيش هيچ حال به تا 
+Dialogue: Marked=0,00:37:11.45,00:37:16.10,Default,NTP,0000,0000,0000,!Effect,… هرگز ، باشد داشته تناقض مشاهدات با که 

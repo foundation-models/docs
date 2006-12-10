@@ -1,0 +1,66 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:00:00.00,00:00:02.45,Default,NTP,0000,0000,0000,!Effect,برنامه اين در ﻿اكنون 
+Dialogue: Marked=0,00:00:02.97,00:00:07.06,Default,NTP,0000,0000,0000,!Effect,آمديد خوش تخيل از تر عجيب دنيايي به 
+Dialogue: Marked=0,00:00:07.74,00:00:10.51,Default,NTP,0000,0000,0000,!Effect,شوند می شکسته بازی قوانين آن در كه 
+Dialogue: Marked=0,00:00:11.03,00:00:16.21,Default,NTP,0000,0000,0000,!Effect,برد می ها خيال های مرز از فراتر را شما دنيا به نسبت ديگري ديدگاه و 
+Dialogue: Marked=0,00:00:17.12,00:00:19.80,Default,NTP,0000,0000,0000,!Effect,هاست ريسمان دنياي دنيا اين 
+Dialogue: Marked=0,00:00:20.83,00:00:24.00,Default,NTP,0000,0000,0000,!Effect,مواد تمام و نيرو هر توجيه براي راهي 
+Dialogue: Marked=0,00:00:24.18,00:00:27.35,Default,NTP,0000,0000,0000,!Effect, ...ها كهكشان انتهاي تا ...زمين تا ...گرفته اتم از 
+Dialogue: Marked=0,00:00:28.20,00:00:31.18,Default,NTP,0000,0000,0000,!Effect,اش لحظه آخرين تا ...زمان تولد از 
+Dialogue: Marked=0,00:00:32.13,00:00:33.70,Default,NTP,0000,0000,0000,!Effect, ...تئوري يك در تنها 
+Dialogue: Marked=0,00:00:34.36,00:00:36.80,Default,NTP,0000,0000,0000,!Effect,چيز همه تئوري 
+Dialogue: Marked=0,00:00:38.31,00:00:41.61,Default,NTP,0000,0000,0000,!Effect,است «گرين براين» دنيا اين به ما راهنماي 
+Dialogue: Marked=0,00:00:41.99,00:00:43.88,Default,NTP,0000,0000,0000,!Effect,فيزيكي کتاب ترين فروش پر ي نويسنده 
+Dialogue: Marked=0,00:00:44.42,00:00:45.90,Default,NTP,0000,0000,0000,!Effect, ...آيم مي اينجا به چقدر هر و 
+Dialogue: Marked=0,00:00:45.90,00:00:47.76,Default,NTP,0000,0000,0000,!Effect,كنم نمي عادت بِهِش اصلاً 
+Dialogue: Marked=0,00:00:49.90,00:00:53.00,Default,NTP,0000,0000,0000,!Effect,كنيم؟ حل را مدرن فيزيك مسأله ترين بزرگ تا كند كمك را ما تواند مي او آيا 
+Dialogue: Marked=0,00:00:55.00,00:01:01.56,Default,NTP,0000,0000,0000,!Effect,اند متناقض كه ...است قانون سري دو اساس بر عالم از ما فهم كه 
+Dialogue: Marked=0,00:01:02.00,00:01:09.00,Default,NTP,0000,0000,0000,!Effect,بود او ي مشغله آخرين و گذاشت كار سر را انشتين حتي مسأله اين كردن حل 
+Dialogue: Marked=0,00:01:09.64,00:01:15.30,Default,NTP,0000,0000,0000,!Effect,باشيم بزرگی كشف ی آستانه در است ممکن سال دهها از پس 
+Dialogue: Marked=0,00:01:18.50,00:01:21.50,Default,NTP,0000,0000,0000,!Effect, ...است ريسمان اش چاره 
+Dialogue: Marked=0,00:01:21.75,00:01:25.80,Default,NTP,0000,0000,0000,!Effect,كنند مي ارتعاش چِلو هاي تار مانند كه انرژي كوچك هاي ذره 
+Dialogue: Marked=0,00:01:26.20,00:01:30.00,Default,NTP,0000,0000,0000,!Effect,دارند قرار عظيمي کيهاني سمفونيک قلب در كه 
+Dialogue: Marked=0,00:01:31.91,00:01:33.50,Default,NTP,0000,0000,0000,!Effect, ...شود مي تمام قيمتي به اما 
+Dialogue: Marked=0,00:01:34.00,00:01:37.50,Default,NTP,0000,0000,0000,!Effect,بُعد يازده و ،موازي هاي عالم 
+Dialogue: Marked=0,00:01:37.80,00:01:39.96,Default,NTP,0000,0000,0000,!Effect,ايد نديده اصلاً که هايي چيز بيشتر 
+Dialogue: Marked=0,00:01:40.00,00:01:44.30,Default,NTP,0000,0000,0000,!Effect,دارد ای اضافه های بُعد که ،باشيم جهاني در ما است ممکن واقعاً 
+Dialogue: Marked=0,00:01:44.30,00:01:50.40,Default,NTP,0000,0000,0000,!Effect,بودند گلابي ،شدند مي شناخته خُل عنوان به دارند وجود اضافي بُعدهاي گفتند مي كه كساني 
+Dialogue: Marked=0,00:01:50.50,00:01:53.50,Default,NTP,0000,0000,0000,!Effect, ...علوم؟ و رياضي از سرابي 
+Dialogue: Marked=0,00:01:54.05,00:01:56.57,Default,NTP,0000,0000,0000,!Effect,چيز همه نهايي تئوري يا... 
+Dialogue: Marked=0,00:01:56.60,00:02:01.31,Default,NTP,0000,0000,0000,!Effect, ...بدهد آزمايشي قابل بيني پيش نتواند ريسمان تئوري اگر 
+Dialogue: Marked=0,00:02:01.68,00:02:03.65,Default,NTP,0000,0000,0000,!Effect,كند باورش نبايد كس هيچ پس... 
+Dialogue: Marked=0,00:02:03.70,00:02:06.50,Default,NTP,0000,0000,0000,!Effect,فلسفه؟ يا ...است؟ فيزيكي تئوري يک اين 
+Dialogue: Marked=0,00:02:06.60,00:02:08.40,Default,NTP,0000,0000,0000,!Effect, ...است قطعی كه چيز يک 
+Dialogue: Marked=0,00:02:08.40,00:02:11.15,Default,NTP,0000,0000,0000,!Effect,،که دهد مي نشان ما به دارد ريسمان تئوري كه است اين... 
+Dialogue: Marked=0,00:02:11.15,00:02:15.50,Default,NTP,0000,0000,0000,!Effect,كرديم مي تصور که است آني از تر عجيب خيلي ما دنياي 
+Dialogue: Marked=0,00:02:16.50,00:02:18.00,Default,NTP,0000,0000,0000,!Effect,:قسمت اين در 
+Dialogue: Marked=0,00:02:19.50,00:02:21.00,Default,NTP,0000,0000,0000,!Effect,شد شروع سيب يک با اش همه 
+Dialogue: Marked=0,00:02:21.60,00:02:23.75,Default,NTP,0000,0000,0000,!Effect,،نيوتون معادلات موفقيت تمام 
+Dialogue: Marked=0,00:02:23.80,00:02:28.40,Default,NTP,0000,0000,0000,!Effect,بود ها سياره و ها ستاره فهميدن براي او جستجوي از 
+Dialogue: Marked=0,00:02:28.60,00:02:30.45,Default,NTP,0000,0000,0000,!Effect,ايم آمده را زيادي راه موقع اون از و 
+Dialogue: Marked=0,00:02:30.50,00:02:35.30,Default,NTP,0000,0000,0000,!Effect,داد ارائه جاذبه ماهيت از جديدي تصوير دنيا به انشتين 
+Dialogue: Marked=0,00:02:35.90,00:02:40.05,Default,NTP,0000,0000,0000,!Effect,بروند کنند مي جرأت دانشمندان امروز نرفت او که جايي 
+Dialogue: Marked=0,00:02:40.10,00:02:44.50,Default,NTP,0000,0000,0000,!Effect,كنند برآورده را انشتين آرزوي که هستند نزديك چقدر ولي 
+Dialogue: Marked=0,00:02:44.80,00:02:47.90,Default,NTP,0000,0000,0000,!Effect,کنيد تماشا اکنون هم را زيبا عالم 
+Dialogue: Marked=0,00:04:28.00,00:04:35.41,Default,NTP,0000,0000,0000,!Effect,زيبا عالم 
+Dialogue: Marked=0,00:04:42.61,00:04:46.75,Default,NTP,0000,0000,0000,!Effect,انشتين آرزوي 
+Dialogue: Marked=0,00:05:01.00,00:05:02.29,Default,NTP,0000,0000,0000,!Effect,پيش سال ٥٠ 
+Dialogue: Marked=0,00:05:02.60,00:05:06.72,Default,NTP,0000,0000,0000,!Effect,بود مدرن علم معماهاي بزرگترين از يكي ي صحنه ،خانه اين 
+Dialogue: Marked=0,00:05:07.36,00:05:14.95,Default,NTP,0000,0000,0000,!Effect,هستند آن جواب پي در فيزيكدانان هم هنوز كه عميق قدري به معمايي 
+Dialogue: Marked=0,00:05:15.99,00:05:22.50,Default,NTP,0000,0000,0000,!Effect,گذراند خانه اين در «پرينستون» در را عمرش آخر سال ٢٠ انشتين 
+Dialogue: Marked=0,00:05:24.43,00:05:29.99,Default,NTP,0000,0000,0000,!Effect,گشت مي تئوري يک دنبال سخت دومش ي طبقه ي مطالعه اتاق در و 
+Dialogue: Marked=0,00:05:30.31,00:05:35.60,Default,NTP,0000,0000,0000,!Effect,کند بيان را جهان عملکرد تمام که قوي آنقدر اي تئوري 
+Dialogue: Marked=0,00:05:38.30,00:05:44.10,Default,NTP,0000,0000,0000,!Effect,داشت مي نگه خودش پيش يادداشتي دفترچه او عمرش اواخر تا 
+Dialogue: Marked=0,00:05:44.10,00:05:51.60,Default,NTP,0000,0000,0000,!Effect,چيز همه تئوري نام به بياورد در اي معادله تا کوشيد می متلاطم و مشوش 
+Dialogue: Marked=0,00:05:52.55,00:05:57.51,Default,NTP,0000,0000,0000,!Effect,بود علم تاريخ کشف ترين مهم ي آستانه در که بود متقاعد 
+Dialogue: Marked=0,00:05:57.76,00:06:03.70,Default,NTP,0000,0000,0000,!Effect, ...ناتمام آرزوييش آورد کم وقت ولي 

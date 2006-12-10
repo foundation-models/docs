@@ -1,0 +1,34 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:31:50.00,00:31:52.58,Default,NTP,0000,0000,0000,!Effect,توانيد مي فقط کوانتوم مکانيک ﻿طبق 
+Dialogue: Marked=0,00:31:52.70,00:31:58.04,Default,NTP,0000,0000,0000,!Effect,آوريد دست به را نتيجه هر دادن رخ احتمال 
+Dialogue: Marked=0,00:31:59.12,00:32:02.89,Default,NTP,0000,0000,0000,!Effect,غريب و عجيب ي ايده اين و 
+Dialogue: Marked=0,00:32:03.05,00:32:09.13,Default,NTP,0000,0000,0000,!Effect,کرد باز واقعيت از اي ريخته هم به تصوير روي به را در 
+Dialogue: Marked=0,00:32:15.74,00:32:17.31,Default,NTP,0000,0000,0000,!Effect,بود ريخته هم به قدر آن 
+Dialogue: Marked=0,00:32:17.46,00:32:22.70,Default,NTP,0000,0000,0000,!Effect,بودند محسوس روزمرّه زندگي در ،کوانتوم عجيب خصوصيات اگر که 
+Dialogue: Marked=0,00:32:22.70,00:32:25.60,Default,NTP,0000,0000,0000,!Effect,،«کافه کوانتوم» در ،اينجا مثلِ 
+Dialogue: Marked=0,00:32:25.65,00:32:28.86,Default,NTP,0000,0000,0000,!Effect,زديد مي قات بدجوري
+Dialogue: Marked=0,00:32:29.19,00:32:32.40,Default,NTP,0000,0000,0000,!Effect,،کنند مي فرق خيلي کوانتوم دنياي قوانين 
+Dialogue: Marked=0,00:32:32.50,00:32:34.28,Default,NTP,0000,0000,0000,!Effect, کرديم عادت بِهِشان که قوانيني با
+Dialogue: Marked=0,00:32:35.41,00:32:37.40,Default,NTP,0000,0000,0000,!Effect,کنند مي فرق کاملاً ،مان روزمرّه هاي تجربه
+Dialogue: Marked=0,00:32:37.40,00:32:40.05,Default,NTP,0000,0000,0000,!Effect,بينيد مي کوانتوم دنياي در که چيزي هر با
+Dialogue: Marked=0,00:32:40.45,00:32:42.58,Default,NTP,0000,0000,0000,!Effect,است مسخره کوانتوم دنياي 
+Dialogue: Marked=0,00:32:42.60,00:32:45.78,Default,NTP,0000,0000,0000,!Effect,دارد قاتي ،است همين توصيفِش بهترين 
+Dialogue: Marked=0,00:32:46.24,00:32:47.14,Default,NTP,0000,0000,0000,!Effect,سال ٨۰ نزديک براي 
+Dialogue: Marked=0,00:32:47.28,00:32:49.60,Default,NTP,0000,0000,0000,!Effect,کرد ادّعا موفقيت با کوانتوم مکانيک 
+Dialogue: Marked=0,00:32:49.68,00:32:56.12,Default,NTP,0000,0000,0000,!Effect,است معمول ،ريز بسيار هاي مقياس در عالم رفتار در ،غريب و عجيب وقايع که 
+Dialogue: Marked=0,00:32:56.29,00:32:59.53,Default,NTP,0000,0000,0000,!Effect,روزمرّه زندگي درمقياس 
+Dialogue: Marked=0,00:32:59.67,00:33:03.61,Default,NTP,0000,0000,0000,!Effect,کنيم نمي حس را کوانتوم عجايب مستقيماً ما
+Dialogue: Marked=0,00:33:04.13,00:33:07.11,Default,NTP,0000,0000,0000,!Effect,کوانتوم کافه در اينجا ولي 
+Dialogue: Marked=0,00:33:07.26,00:33:11.82,Default,NTP,0000,0000,0000,!Effect,بودند ريز خيلي انگار که ،کنند مي رفتار اي گونه به ،بزرگ ي روزمرّه چيزهاي 
+Dialogue: Marked=0,00:33:12.00,00:33:14.47,Default,NTP,0000,0000,0000,!Effect,...آيم مي اينجا به چقدر هر و 
+Dialogue: Marked=0,00:33:14.67,00:33:17.25,Default,NTP,0000,0000,0000,!Effect,کنم نمي عادت بِهِش اصلاً 

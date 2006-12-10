@@ -1,0 +1,28 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:13:00.00,00:13:02.85,Default,NTP,0000,0000,0000,!Effect,سال ۲۵۰ نزديک ﻿براي 
+Dialogue: Marked=0,00:13:03.08,00:13:08.04,Default,NTP,0000,0000,0000,!Effect,گرداندند مي بر رو معما اين از دانشمندان 
+Dialogue: Marked=0,00:13:10.18,00:13:12.32,Default,NTP,0000,0000,0000,!Effect,بيستم قرن اوايل در ولي 
+Dialogue: Marked=0,00:13:12.51,00:13:17.64,Default,NTP,0000,0000,0000,!Effect,کرد عوض را چيز همه سويس پَتِنت دفتر در ناشناس کارمند يک 
+Dialogue: Marked=0,00:13:18.46,00:13:26.31,Default,NTP,0000,0000,0000,!Effect,کرد مي فکر نور رفتار ي درباره انشتين ،پتنت های مقاله کردن مرور با همزمان 
+Dialogue: Marked=0,00:13:26.53,00:13:30.20,Default,NTP,0000,0000,0000,!Effect,نور ي درباره او کردن تفکر که دانست نمي و 
+Dialogue: Marked=0,00:13:30.39,00:13:34.22,Default,NTP,0000,0000,0000,!Effect,کند حل جاذبه ي درباره را نيوتون معماي تا ،کند مي راهنمايي را او 
+Dialogue: Marked=0,00:13:36.42,00:13:40.72,Default,NTP,0000,0000,0000,!Effect,کرد اي دهنده تکان کشف  انشتين سالگي ٢٦ سن در 
+Dialogue: Marked=0,00:13:41.69,00:13:47.23,Default,NTP,0000,0000,0000,!Effect,است جهاني حداکثر سرعت نوعي به نور سرعت اينکه 
+Dialogue: Marked=0,00:13:47.53,00:13:51.57,Default,NTP,0000,0000,0000,!Effect,بگذرد آن از تواند نمي عالم در چيزي هيچ که سرعتي 
+Dialogue: Marked=0,00:13:51.82,00:13:54.87,Default,NTP,0000,0000,0000,!Effect,...مقاله اين انتشار با ولي 
+Dialogue: Marked=0,00:13:55.01,00:14:01.02,Default,NTP,0000,0000,0000,!Effect,انداخت جاذبه پدر با دعوا توي را خودش 
+Dialogue: Marked=0,00:14:05.00,00:14:05.83,Default,NTP,0000,0000,0000,!Effect,که بود اين مشکل 
+Dialogue: Marked=0,00:14:06.01,00:14:09.88,Default,NTP,0000,0000,0000,!Effect,بگذرد نور سرعت از تواند نمي چيزي هيچ که تصور اين 
+Dialogue: Marked=0,00:14:10.05,00:14:14.11,Default,NTP,0000,0000,0000,!Effect,زد هم به را جاذبه از نيوتون تصور 
+Dialogue: Marked=0,00:14:17.17,00:14:18.83,Default,NTP,0000,0000,0000,!Effect,بفهميد را تناقض اين اينکه براي 
+Dialogue: Marked=0,00:14:18.97,00:14:21.73,Default,NTP,0000,0000,0000,!Effect,بدهيم انجام آزمايش چند بايد 

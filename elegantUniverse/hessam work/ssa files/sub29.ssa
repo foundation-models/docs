@@ -1,0 +1,32 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:43:52.00,00:43:56.93,Default,NTP,0000,0000,0000,!Effect,شد راکد فيزيک در وحدت براي جو و جست ﻿پس 
+Dialogue: Marked=0,00:43:57.28,00:44:01.13,Default,NTP,0000,0000,0000,!Effect,٥۰ ي دهه يعني ،انشتين مرگ زمان در 
+Dialogue: Marked=0,00:44:01.35,00:44:10.14,Default,NTP,0000,0000,0000,!Effect,نبود وحدت براي جستجو جريان در بزرگي فيزيکدان هيچ 
+Dialogue: Marked=0,00:44:14.30,00:44:17.74,Default,NTP,0000,0000,0000,!Effect,حال به تا موقع آن از
+Dialogue: Marked=0,00:44:17.93,00:44:20.94,Default,NTP,0000,0000,0000,!Effect,:شدند تقسيم دسته دو به فيزيکدانان 
+Dialogue: Marked=0,00:44:21.20,00:44:25.25,Default,NTP,0000,0000,0000,!Effect,کردند مي بررسي را بزرگ و سنگين اجسام و کردند مي استفاده نسبيت از بعضي 
+Dialogue: Marked=0,00:44:25.49,00:44:29.45,Default,NTP,0000,0000,0000,!Effect,عالم خود و کهکشانها و ستارگان مثل هايي چيز
+Dialogue: Marked=0,00:44:29.65,00:44:34.28,Default,NTP,0000,0000,0000,!Effect,دادند مي قرار مطالعه مورد را اجسام ريزترين ،کوانتوم مکانيک با ديگر بعضي و 
+Dialogue: Marked=0,00:44:34.43,00:44:36.36,Default,NTP,0000,0000,0000,!Effect,ذرات و ها اتم مثلِ
+Dialogue: Marked=0,00:44:36.88,00:44:39.45,Default,NTP,0000,0000,0000,!Effect,ماندند مي خانواده تا دو مثل اينها
+Dialogue: Marked=0,00:44:39.60,00:44:42.93,Default,NTP,0000,0000,0000,!Effect,کنند صحبت و بيايند کنار هم با توانستد نمي که 
+Dialogue: Marked=0,00:44:43.41,00:44:45.63,Default,NTP,0000,0000,0000,!Effect,کردند مي زندگي سقف يک زير که حالي در
+Dialogue: Marked=0,00:44:46.43,00:44:50.62,Default,NTP,0000,0000,0000,!Effect,کوانتوم مکانيک کردن مخلوط براي ،نبود راهي هيچ آمد مي نظر به 
+Dialogue: Marked=0,00:44:50.85,00:44:57.14,Default,NTP,0000,0000,0000,!Effect,نيست کند توصيف ها مقياس تمام در را عالم بتواند که تئوري يک در ،عام نسبيت و 
+Dialogue: Marked=0,00:45:02.40,00:45:03.84,Default,NTP,0000,0000,0000,!Effect,...اين وجود با 
+Dialogue: Marked=0,00:45:03.90,00:45:07.81,Default,NTP,0000,0000,0000,!Effect,ايم کرده عالم شناختن در زيادي پيشرفت ما 
+Dialogue: Marked=0,00:45:08.73,00:45:10.67,Default,NTP,0000,0000,0000,!Effect,:اينجاست نکته ولي 
+Dialogue: Marked=0,00:45:11.10,00:45:17.40,Default,NTP,0000,0000,0000,!Effect,شوند نمي شناخته درست وقت هيچ که دارند وجود عالم در عجيبي هاي قلمرو 
+Dialogue: Marked=0,00:45:17.60,00:45:20.32,Default,NTP,0000,0000,0000,!Effect,کنيم پيدا واحدي تئوري که زماني مگر
+Dialogue: Marked=0,00:45:21.29,00:45:24.16,Default,NTP,0000,0000,0000,!Effect,...اين براي مصداق بهترين و
+Dialogue: Marked=0,00:45:25.20,00:45:29.24,Default,NTP,0000,0000,0000,!Effect,است چال سياه اعماق... 

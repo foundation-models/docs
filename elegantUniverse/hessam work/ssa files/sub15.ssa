@@ -1,0 +1,31 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:24:23.00,00:24:24.99,Default,NTP,0000,0000,0000,!Effect,...﻿امروز 
+Dialogue: Marked=0,00:24:25.37,00:24:28.27,Default,NTP,0000,0000,0000,!Effect,است ريسمان تئوري اصلي هدف اين 
+Dialogue: Marked=0,00:24:28.49,00:24:33.13,Default,NTP,0000,0000,0000,!Effect,دهد وحدت چيز همه از را ما درک که 
+Dialogue: Marked=0,00:24:33.27,00:24:38.95,Default,NTP,0000,0000,0000,!Effect,ها کهکشان عظمت با هاي گرداب تا ...عالم تولد از 
+Dialogue: Marked=0,00:24:39.10,00:24:41.23,Default,NTP,0000,0000,0000,!Effect,اصول سري يک فقط در 
+Dialogue: Marked=0,00:24:41.36,00:24:45.90,Default,NTP,0000,0000,0000,!Effect,معادله ابر يک 
+Dialogue: Marked=0,00:24:46.96,00:24:52.54,Default,NTP,0000,0000,0000,!Effect,بخشيد وحدت جاذبه تئوري يک در زمين با را ها آسمان نيوتون 
+Dialogue: Marked=0,00:24:52.83,00:24:57.83,Default,NTP,0000,0000,0000,!Effect,داد وحدت را مغناطيس و الکتريسيته ماکسوِل 
+Dialogue: Marked=0,00:24:58.97,00:25:04.60,Default,NTP,0000,0000,0000,!Effect,کنيم درست را چيز هم تئوري تا است لازم که چيزي تنها که پنداشت مي اينشتين 
+Dialogue: Marked=0,00:25:04.70,00:25:08.04,Default,NTP,0000,0000,0000,!Effect,بگيرد بر در را عالم قوانين ي همه که ،واحدي تئوري يک يعني 
+Dialogue: Marked=0,00:25:08.20,00:25:13.33,Default,NTP,0000,0000,0000,!Effect,بود مغناطيس الکترو با جاذبه از او تصوير دادن پيوند 
+Dialogue: Marked=0,00:25:13.73,00:25:15.56,Default,NTP,0000,0000,0000,!Effect,،داشت انگيزه که قطعاً
+Dialogue: Marked=0,00:25:15.70,00:25:20.05,Default,NTP,0000,0000,0000,!Effect,باشد کردن ساده براي جستجو يا زيبايي شان يکي شايد 
+Dialogue: Marked=0,00:25:20.10,00:25:22.20,Default,NTP,0000,0000,0000,!Effect,باشد فيزيکي واقعيت اين ديگري شايد 
+Dialogue: Marked=0,00:25:22.23,00:25:26.25,Default,NTP,0000,0000,0000,!Effect,است نور سرعت مساوي جاذبه سرعت که 
+Dialogue: Marked=0,00:25:28.10,00:25:30.00,Default,NTP,0000,0000,0000,!Effect,شوند منتقل سرعت يک با دوتاشان اگر پس 
+Dialogue: Marked=0,00:25:30.26,00:25:33.77,Default,NTP,0000,0000,0000,!Effect,باشد پنهان تقارن نوع يک از اي نشانه يک اين شايد 
+Dialogue: Marked=0,00:25:34.14,00:25:38.70,Default,NTP,0000,0000,0000,!Effect,کرد الکترومغناطيس با گرانش دادن وحدت براي تلاش به شروع اينشتين تا ولي 
+Dialogue: Marked=0,00:25:38.84,00:25:43.08,Default,NTP,0000,0000,0000,!Effect,نيرو دو اين قدرت در تفاوتهايي که دريافت او 
+Dialogue: Marked=0,00:25:43.32,00:25:45.71,Default,NTP,0000,0000,0000,!Effect,آورد مي در را هايشان شباهت تلافي

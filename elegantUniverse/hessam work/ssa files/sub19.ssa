@@ -1,0 +1,31 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:30:01.00,00:30:06.14,Default,NTP,0000,0000,0000,!Effect,شدند مي توجيه چگونه ها اين که بود بزرگي معماي ﻿و 
+Dialogue: Marked=0,00:30:06.28,00:30:09.88,Default,NTP,0000,0000,0000,!Effect,داد مي رخ چيزي چه هسته در اينکه توصيف 
+Dialogue: Marked=0,00:30:10.01,00:30:13.73,Default,NTP,0000,0000,0000,!Effect,شود مي تجزيه گوناگون هاي شيوه به اتم که هنگامي 
+Dialogue: Marked=0,00:30:13.96,00:30:19.49,Default,NTP,0000,0000,0000,!Effect,نبودند مناسب اصلاً ،آنها توضيح در قديمي هاي تئوري و 
+Dialogue: Marked=0,00:30:19.65,00:30:22.70,Default,NTP,0000,0000,0000,!Effect,بود ضعيف زيادي و بود ربط بي گرانش 
+Dialogue: Marked=0,00:30:22.95,00:30:26.44,Default,NTP,0000,0000,0000,!Effect,نبودند کافي مغناطيس و الکتريسيته و 
+Dialogue: Marked=0,00:30:29.24,00:30:33.12,Default,NTP,0000,0000,0000,!Effect,دهد توضيح را جديد دنياي اين که اي تئوري بدون 
+Dialogue: Marked=0,00:30:33.29,00:30:39.14,Default,NTP,0000,0000,0000,!Effect,بودند شده گم اتمي ناآشناي قلمروي در دانشمندان اين 
+Dialogue: Marked=0,00:30:39.30,00:30:45.02,Default,NTP,0000,0000,0000,!Effect,گشتند مي آشنايي ي نشانه هر پي در و
+Dialogue: Marked=0,00:31:01.12,00:31:04.93,Default,NTP,0000,0000,0000,!Effect,شد عوض چيز همه ١٩٢٠ ي دهه اواخر در ،بعد
+Dialogue: Marked=0,00:31:05.29,00:31:10.25,Default,NTP,0000,0000,0000,!Effect,آوردند پديد «کوانتوم» نام به جديدي تئوري فيزيکدانان ،ها سال آن طيّ 
+Dialogue: Marked=0,00:31:10.40,00:31:15.27,Default,NTP,0000,0000,0000,!Effect,کند توصيف موفقيت با را ميکروسکوپي قلمروي بود قادر و 
+Dialogue: Marked=0,00:31:15.42,00:31:16.93,Default,NTP,0000,0000,0000,!Effect,:است اينجا نکته ولي 
+Dialogue: Marked=0,00:31:17.71,00:31:20.41,Default,NTP,0000,0000,0000,!Effect,بود اساسي آنقدر کوانتوم مکانيکِ 
+Dialogue: Marked=0,00:31:20.55,00:31:24.53,Default,NTP,0000,0000,0000,!Effect,کرد رو و زير را جهان ي درباره قبلي هاي بينش تمام که 
+Dialogue: Marked=0,00:31:25.87,00:31:30.83,Default,NTP,0000,0000,0000,!Effect,باشد منظم و بيني پيش قابل بايد عالم انشتين هاي تئوري در 
+Dialogue: Marked=0,00:31:30.98,00:31:35.33,Default,NTP,0000,0000,0000,!Effect,نبود موافق بور نيلز ولي 
+Dialogue: Marked=0,00:31:36.21,00:31:39.90,Default,NTP,0000,0000,0000,!Effect,ذرات و ها اتم مقياس در که کردند آشکار همکارانش و او 
+Dialogue: Marked=0,00:31:40.05,00:31:42.97,Default,NTP,0000,0000,0000,!Effect,است شانس بازي يک دنيا
+Dialogue: Marked=0,00:31:44.39,00:31:48.98,Default,NTP,0000,0000,0000,!Effect,است حاکم «قطعيت عدم» ،کوانتومي تراز در 

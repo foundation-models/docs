@@ -1,0 +1,147 @@
+A:link {
+	COLOR: #003399
+}
+A:visited {
+	COLOR: #333333
+}
+A:active {
+	COLOR: #336666
+}
+A:hover {
+	COLOR: #009999
+}
+A.subhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #333333; FONT-FAMILY: Georgia, serif
+}
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px; FONT-FAMILY: Verdana, sans-serif
+}
+BODY.map {
+	FONT-SIZE: small; FONT-FAMILY: Verdana, sans-serif
+}
+DIV.footer {
+	FONT-SIZE: 10px; PADDING-BOTTOM: 10pt; FONT-FAMILY: Verdana, sans-serif
+}
+H1 {
+	MARGIN-TOP: 0%; FONT-WEIGHT: bold; FONT-SIZE: 15px; MARGIN-BOTTOM: 0%; COLOR: #333333; LINE-HEIGHT: 110%; FONT-FAMILY: Georgia, serif
+}
+H2 {
+	MARGIN-TOP: 0%; FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #333333; PADDING-TOP: 15px; FONT-FAMILY: Georgia, serif
+}
+IMG.incopy {
+	DISPLAY: inline
+}
+IMG.incopy-c {
+	DISPLAY: inline
+}
+IMG.novaicon-l {
+	PADDING-RIGHT: 2pt; DISPLAY: inline; FLOAT: left; PADDING-BOTTOM: 3pt
+}
+IMG.popup {
+	DISPLAY: inline
+}
+IMG.widespacer {
+	MARGIN-TOP: -1px
+}
+LI {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, sans-serif
+}
+LI.small {
+	FONT-SIZE: 10px
+}
+P {
+	MARGIN-TOP: 0px; FONT-SIZE: 12px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, sans-serif
+}
+P.caption {
+	MARGIN-TOP: 0%; FONT-SIZE: 10px; COLOR: #333333; PADDING-TOP: 0%
+}
+P.credit-listing {
+	FONT-SIZE: 10px; COLOR: #323232
+}
+P.credit-listing-head {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Georgia, serif
+}
+P.footer {
+	FONT-SIZE: 10px; PADDING-BOTTOM: 0pt
+}
+P.home-coltop {
+	MARGIN-TOP: 5pt; FONT-SIZE: 10px; PADDING-TOP: 0%
+}
+P.home-small {
+	FONT-SIZE: 10px
+}
+P.indent {
+	MARGIN-LEFT: 20pt
+}
+P.indent-tight {
+	MARGIN-TOP: 0pt; MARGIN-LEFT: 20pt; PADDING-TOP: 0pt
+}
+P.listseason-site {
+	MARGIN-TOP: 0%; FONT-SIZE: 10px; MARGIN-BOTTOM: 0%; PADDING-BOTTOM: 0%; PADDING-TOP: 0%
+}
+P.nav-side {
+	FONT-SIZE: 10px; COLOR: #333333; LINE-HEIGHT: 180%
+}
+P.nav-side-about {
+	FONT-SIZE: 10px; MARGIN-BOTTOM: 8pt; COLOR: #333333
+}
+P.nav-side-tight {
+	FONT-SIZE: 10px; COLOR: #333333
+}
+P.p1-author {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Georgia, serif
+}
+P.p1-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #333333; LINE-HEIGHT: 110%; FONT-FAMILY: Georgia, serif
+}
+P.popup-caption {
+	FONT-SIZE: 10px; MARGIN: 5pt 0%; COLOR: #333333
+}
+P.popup-close {
+	PADDING-RIGHT: 0%; FONT-SIZE: 10px; MARGIN-BOTTOM: 0%; PADDING-BOTTOM: 10pt; MARGIN-RIGHT: 0%; TEXT-ALIGN: right
+}
+P.popup-head {
+	MARGIN-TOP: 3pt; FONT-WEIGHT: bold; FONT-SIZE: 15px; MARGIN-BOTTOM: 4pt; PADDING-BOTTOM: 0%; COLOR: #333333; PADDING-TOP: 0%; FONT-FAMILY: Georgia, serif
+}
+P.popup-img-right {
+	PADDING-RIGHT: 0%; MARGIN-BOTTOM: 0%; PADDING-BOTTOM: 0%; MARGIN-RIGHT: 0%; TEXT-ALIGN: right
+}
+P.quote {
+	PADDING-RIGHT: 20pt; PADDING-LEFT: 20pt
+}
+P.sitemap {
+	FONT-SIZE: 10px; LINE-HEIGHT: 130%
+}
+P.small-tight {
+	MARGIN-TOP: 0%; FONT-SIZE: 10px; MARGIN-BOTTOM: 0%; PADDING-BOTTOM: 0%; PADDING-TOP: 0%
+}
+P.subhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #333333; FONT-FAMILY: Georgia, serif
+}
+P.subhead-credits {
+	MARGIN-TOP: 0%; FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #333333; FONT-FAMILY: Georgia, serif
+}
+P.subtext {
+	MARGIN-TOP: 0pt; FONT-SIZE: 10px; MARGIN-BOTTOM: 0pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt; FONT-FAMILY: Verdana, sans-serif
+}
+P.tight {
+	MARGIN-TOP: 0%; MARGIN-BOTTOM: 0%; PADDING-BOTTOM: 0%; PADDING-TOP: 0%
+}
+P.tight-bot {
+	MARGIN-BOTTOM: 0pt; PADDING-BOTTOM: 0pt
+}
+SPAN.credit-listing {
+	COLOR: #9e9e9e
+}
+SPAN.nav-currentpage {
+	BACKGROUND: #666699; COLOR: #ffffff
+}
+SPAN.p1-author {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Georgia, serif
+}
+TD.caption {
+	BACKGROUND-COLOR: #d7e8e8
+}
+TD IMG {
+	DISPLAY: block
+}

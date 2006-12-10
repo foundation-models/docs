@@ -1,0 +1,39 @@
+TABLE.nova-nav-logo {
+	BACKGROUND-IMAGE: url(/wgbh/nova/images04/nav-home-header.jpg); BACKGROUND-COLOR: #e6eaf3
+}
+TD.nova-nav-logo {
+	BACKGROUND-COLOR: #e6eaf3
+}
+TD.nova-nav-black {
+	BACKGROUND-COLOR: #000000
+}
+TD.nova-nav-grey {
+	BACKGROUND-COLOR: #666666
+}
+TD.nova-nav-bluebar {
+	BACKGROUND-IMAGE: url(/wgbh/nova/images04/nav-bar-412-stretch.gif); BACKGROUND-REPEAT: repeat-x
+}
+TABLE.nova-nav-black {
+	BACKGROUND-COLOR: #000000
+}
+TABLE.nova-nav-grey {
+	BACKGROUND-COLOR: #666666
+}
+TD.pagebot-grey-light {
+	BACKGROUND-COLOR: #f6f6f6
+}
+TD.pagebot-grey-dark {
+	BACKGROUND-COLOR: #e8e8e8
+}
+P.img-left {
+	PADDING-RIGHT: 0%; PADDING-LEFT: 0%; PADDING-BOTTOM: 0%; MARGIN: 0%; PADDING-TOP: 0%; TEXT-ALIGN: left
+}
+IMG.incopy {
+	DISPLAY: inline
+}
+IMG.widespacer {
+	MARGIN-TOP: -1px
+}
+INPUT.novanav {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, sans-serif; BACKGROUND-COLOR: #dbe1ed
+}

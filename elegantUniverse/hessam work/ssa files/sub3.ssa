@@ -1,0 +1,22 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:10:06.01,00:10:08.60,Default,NTP,0000,0000,0000,!Effect,هست كه است جايي همان ﻿وحدت 
+Dialogue: Marked=0,00:10:10.40,00:10:12.90,Default,NTP,0000,0000,0000,!Effect,هستيم دنبالش ما كه است چيزي همان نيروها وحدت 
+Dialogue: Marked=0,00:10:13.00,00:10:16.00,Default,NTP,0000,0000,0000,!Effect, که است اين فيزيك منظور تمام 
+Dialogue: Marked=0,00:10:16.00,00:10:24.60,Default,NTP,0000,0000,0000,!Effect,ببينيم تري ساده اصول و کمتر و کمتر عبارات در را بيشتري و بيشتر هاي پديده
+Dialogue: Marked=0,00:10:25.00,00:10:27.35,Default,NTP,0000,0000,0000,!Effect,که كنيم مي احساس فيزيكدان عنوان به ما 
+Dialogue: Marked=0,00:10:27.35,00:10:32.15,Default,NTP,0000,0000,0000,!Effect,،کنيم بيان تري ساده سبک به را ها پديده از وسيعي تعداد بتوانيم اگر 
+Dialogue: Marked=0,00:10:32.15,00:10:34.00,Default,NTP,0000,0000,0000,!Effect,پيشرفته جور يه اين 
+Dialogue: Marked=0,00:10:35.00,00:10:41.40,Default,NTP,0000,0000,0000,!Effect,...فيزيك بزرگ تئوري يك ،اينكه به هست هم احساسي ي جنبه يك البته و 
+Dialogue: Marked=0,00:10:41.54,00:10:47.75,Default,NTP,0000,0000,0000,!Effect,باشد ها پديده از اي گسترده دامنه يك ي گيرنده بر در بايد 
+Dialogue: Marked=0,00:10:48.00,00:10:51.54,Default,NTP,0000,0000,0000,!Effect,،بدهيم وحدت عالم از را مان فهمِ بايد ما كه ذهنيّت اين پس 
+Dialogue: Marked=0,00:10:51.54,00:10:57.42,Default,NTP,0000,0000,0000,!Effect,است علوم نوع اين پيشرفت ي لازمه 

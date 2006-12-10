@@ -1,0 +1,33 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:26:49.00,00:26:54.52,Default,NTP,0000,0000,0000,!Effect,است الکترومغناطيس جوابش ،برسد نظر به عجيب که چقدر ﻿هر 
+Dialogue: Marked=0,00:26:55.01,00:26:56.70,Default,NTP,0000,0000,0000,!Effect,،بينيم مي ما که چيزي هر 
+Dialogue: Marked=0,00:26:56.70,00:26:59.30,Default,NTP,0000,0000,0000,!Effect,رو پياده تا ،گرفته شما و من از 
+Dialogue: Marked=0,00:26:59.32,00:27:02.93,Default,NTP,0000,0000,0000,!Effect,اند شده ساخته اتم نام به کوچکي ذرات از 
+Dialogue: Marked=0,00:27:03.30,00:27:08.84,Default,NTP,0000,0000,0000,!Effect,دارد منفي بار اتم هر بيروني ي لايه و 
+Dialogue: Marked=0,00:27:09.35,00:27:13.27,Default,NTP,0000,0000,0000,!Effect,کنند مي برخورد سيمان هاي اتم با هايم اتم وقتي پس 
+Dialogue: Marked=0,00:27:13.50,00:27:17.56,Default,NTP,0000,0000,0000,!Effect,کنند مي دفع قدرتي چنان با را همديگر الکتريکي بارهاي اين 
+Dialogue: Marked=0,00:27:17.72,00:27:22.55,Default,NTP,0000,0000,0000,!Effect,!کند مقابله زمين تمام ي جاذبه با تواند مي ،رو پياده از کوچکي ي تيکه فقط که 
+Dialogue: Marked=0,00:27:22.80,00:27:24.40,Default,NTP,0000,0000,0000,!Effect,کند گيري جلو من افتادن از و 
+Dialogue: Marked=0,00:27:24.97,00:27:33.00,Default,NTP,0000,0000,0000,!Effect,دارد قدرت گرانش برابر ميلياردها ميلياردها الکترومغناطيس نيروي حقيقت در 
+Dialogue: Marked=0,00:27:33.15,00:27:34.15,Default,NTP,0000,0000,0000,!Effect,،رسد مي نظر به عجيب خورده يه 
+Dialogue: Marked=0,00:27:34.15,00:27:37.50,Default,NTP,0000,0000,0000,!Effect,دارد مي نگه خورشيد دور را زمين و زمين روي را پايمان جاذبه چون 
+Dialogue: Marked=0,00:27:37.55,00:27:39.05,Default,NTP,0000,0000,0000,!Effect,حقيقت در ولي 
+Dialogue: Marked=0,00:27:39.18,00:27:44.76,Default,NTP,0000,0000,0000,!Effect,کند مي را کارها اين ،گذارد مي اثر اي گنده اجرام بر اينکه خاطر به فقط 
+Dialogue: Marked=0,00:27:44.76,00:27:46.82,Default,NTP,0000,0000,0000,!Effect,خورشيد و تو و من مثلاً
+Dialogue: Marked=0,00:27:46.82,00:27:53.64,Default,NTP,0000,0000,0000,!Effect,است کوچکي ناتوان نيروي يک گرانش ،اتمها مقياسِ در واقعاً ولي 
+Dialogue: Marked=0,00:27:57.74,00:28:02.05,Default,NTP,0000,0000,0000,!Effect,بود مي اينشتين براي فرسايي طاقت کار يک نيرو دو اين دادن وحدت 
+Dialogue: Marked=0,00:28:02.10,00:28:04.90,Default,NTP,0000,0000,0000,!Effect,است متفاوت وحشتناک قدرتهايشان چون
+Dialogue: Marked=0,00:28:05.00,00:28:06.75,Default,NTP,0000,0000,0000,!Effect,...بدتر اين از و 
+Dialogue: Marked=0,00:28:06.75,00:28:08.65,Default,NTP,0000,0000,0000,!Effect,...بود نکرده شروع را کار هنوز 
+Dialogue: Marked=0,00:28:08.76,00:28:12.08,Default,NTP,0000,0000,0000,!Effect,آمد وجود به فيزيک دنياي در اي بنيادي تغييرات که...
+Dialogue: Marked=0,00:28:12.22,00:28:14.61,Default,NTP,0000,0000,0000,!Effect,انداخت عقب را او و
