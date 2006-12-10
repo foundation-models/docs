@@ -1,0 +1,27 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:45:29.00,00:45:32.74,Default,NTP,0000,0000,0000,!Effect,شوارتزشيلد کارل نام به آلماني منجم ﻿يک 
+Dialogue: Marked=0,00:45:32.90,00:45:37.91,Default,NTP,0000,0000,0000,!Effect,کرد مطرح ١٩١٦ در را گوييم مي چال سياه آن به ما آنچه 
+Dialogue: Marked=0,00:45:40.43,00:45:44.42,Default,NTP,0000,0000,0000,!Effect,اول جهاني جنگ هاي جبهه در جنگ با همزمان 
+Dialogue: Marked=0,00:45:46.19,00:45:54.33,Default,NTP,0000,0000,0000,!Effect,کرد حل انگيزي حيرت و جديد روش به را اينشتين معادلات 
+Dialogue: Marked=0,00:45:55.69,00:45:59.14,Default,NTP,0000,0000,0000,!Effect,جنگ اي پرتابه محاسبات ضمن 
+Dialogue: Marked=0,00:45:59.81,00:46:03.85,Default,NTP,0000,0000,0000,!Effect,عظيمي جرم اگر که دريافت شوارتز 
+Dialogue: Marked=0,00:46:04.12,00:46:06.04,Default,NTP,0000,0000,0000,!Effect,متراکم ي ستاره يک مثل
+Dialogue: Marked=0,00:46:06.30,00:46:08.70,Default,NTP,0000,0000,0000,!Effect,شود متمرکز کمي حجم در 
+Dialogue: Marked=0,00:46:09.02,00:46:12.44,Default,NTP,0000,0000,0000,!Effect,دهد مي تاب و پيچ چنان را فضا-زمان فابريک 
+Dialogue: Marked=0,00:46:12.60,00:46:20.04,Default,NTP,0000,0000,0000,!Effect,کند فرار اش جاذبه از تواند نمي هم نور حتي که 
+Dialogue: Marked=0,00:46:22.69,00:46:27.62,Default,NTP,0000,0000,0000,!Effect,که داشتند شک دانشمندان سال دهها براي 
+Dialogue: Marked=0,00:46:27.79,00:46:30.54,Default,NTP,0000,0000,0000,!Effect,باشد نظريه يک از بيشتر چيزي او محاسبات 
+Dialogue: Marked=0,00:46:32.13,00:46:37.22,Default,NTP,0000,0000,0000,!Effect,اند کرده کاوش را فضا اعماق اي ماهواره هاي تلسکوپ امروزه ولي 
+Dialogue: Marked=0,00:46:37.43,00:46:42.17,Default,NTP,0000,0000,0000,!Effect,اند کرده کشف زيادي بسيار ي جاذبه با اي نواحي و
+Dialogue: Marked=0,00:46:42.52,00:46:46.46,Default,NTP,0000,0000,0000,!Effect,هستند چال سياه اينها معتقدند دانشمندان اکثر که 
+Dialogue: Marked=0,00:46:47.33,00:46:51.66,Default,NTP,0000,0000,0000,!Effect,باشد واقعي آيد مي نظر به شوارتز تئوري

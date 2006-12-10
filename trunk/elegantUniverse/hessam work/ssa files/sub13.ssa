@@ -1,0 +1,28 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:22:07.80,00:22:10.30,Default,NTP,0000,0000,0000,!Effect,کرد حال ،فتير رابطه اين با اسکاتلندي ﻿اين 
+Dialogue: Marked=0,00:22:10.35,00:22:16.10,Default,NTP,0000,0000,0000,!Effect,کند توجيه را دو اين بين ارتباط بود مصمم و 
+Dialogue: Marked=0,00:22:16.31,00:22:18.97,Default,NTP,0000,0000,0000,!Effect,رياضيات زبان در البته 
+Dialogue: Marked=0,00:22:20.49,00:22:22.49,Default,NTP,0000,0000,0000,!Effect,موضوع اين کردن روشن با 
+Dialogue: Marked=0,00:22:22.65,00:22:27.92,Default,NTP,0000,0000,0000,!Effect,کرد تدبير زيبا رياضي ي معادله چهار ماکسوِل 
+Dialogue: Marked=0,00:22:32.16,00:22:40.88,Default,NTP,0000,0000,0000,!Effect,بخشيد الکترومغناطيس نام به نيرو يک در را مغناطيس و الکتريسيته که 
+Dialogue: Marked=0,00:22:42.37,00:22:44.28,Default,NTP,0000,0000,0000,!Effect,نيوتون مثل و 
+Dialogue: Marked=0,00:22:44.40,00:22:51.40,Default,NTP,0000,0000,0000,!Effect, کرد نزديک ،عالم رمز کردن هَک به ،قدم يک را جهان ماکسول وحدت 
+Dialogue: Marked=0,00:22:52.50,00:22:54.40,Default,NTP,0000,0000,0000,!Effect,بود اي ملاحظه قابل چيز و 
+Dialogue: Marked=0,00:22:54.50,00:22:58.00,Default,NTP,0000,0000,0000,!Effect,بودند مرتبط اينگونه ،واقع در ،متفاوت هاي پديده اين که 
+Dialogue: Marked=0,00:22:59.00,00:23:07.30,Default,NTP,0000,0000,0000,!Effect,گيرند مي نشأت پايه اصل يک از گوناگون هاي پديده که است ديگري مصداق يک و 
+Dialogue: Marked=0,00:23:07.65,00:23:14.65,Default,NTP,0000,0000,0000,!Effect,برسد ذهنتان به مغناطيس و الکتريسته به راجع که چيزي هر کنيد تصور 
+Dialogue: Marked=0,00:23:14.75,00:23:20.00,Default,NTP,0000,0000,0000,!Effect,شودند خلاصه ساده ي معادله چهار در توانند مي ،همگي
+Dialogue: Marked=0,00:23:21.40,00:23:22.75,Default,NTP,0000,0000,0000,!Effect,نيست؟ عجيب 
+Dialogue: Marked=0,00:23:24.00,00:23:25.25,Default,NTP,0000,0000,0000,!Effect,...!ها خفنه
+Dialogue: Marked=0,00:23:25.45,00:23:27.15,Default,NTP,0000,0000,0000,!Effect,«زيبا» گَن مي اين به
+

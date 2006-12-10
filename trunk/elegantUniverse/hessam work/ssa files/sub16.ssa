@@ -1,0 +1,26 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:25:46.60,00:25:48.82,Default,NTP,0000,0000,0000,!Effect,بدهم نشانِتان را منظورم ﻿بگذاريد 
+Dialogue: Marked=0,00:25:50.24,00:25:53.97,Default,NTP,0000,0000,0000,!Effect,است قدرتمندي نيروي يک جاذبه که کنيم مي تصور ما 
+Dialogue: Marked=0,00:25:54.20,00:25:59.52,Default,NTP,0000,0000,0000,!Effect,کرده وصل لبه اين به مرا الآن که است نيرويي همان بالاخره 
+Dialogue: Marked=0,00:26:01.38,00:26:06.86,Default,NTP,0000,0000,0000,!Effect,است ناتوان خيلي واقع در الکترومغناطيس با مقايسه در ولي 
+Dialogue: Marked=0,00:26:07.07,00:26:10.02,Default,NTP,0000,0000,0000,!Effect,بدهيم نشان را اين که ،هست اي ساده آزمايش يک اتفاقاً
+Dialogue: Marked=0,00:26:10.25,00:26:13.44,Default,NTP,0000,0000,0000,!Effect,پريدم مي ساختمان اين بالاي از الآن من کنيد فرض 
+Dialogue: Marked=0,00:26:13.97,00:26:16.24,Default,NTP,0000,0000,0000,!Effect,نکنيد فرض ،اصلاً ...نه 
+Dialogue: Marked=0,00:26:16.38,00:26:17.63,Default,NTP,0000,0000,0000,!Effect,دهيم انجام بگذاريد 
+Dialogue: Marked=0,00:26:17.93,00:26:19.56,Default,NTP,0000,0000,0000,!Effect,فهميد مي را منظورم 
+Dialogue: Marked=0,00:26:22.63,00:26:31.07,Default,NTP,0000,0000,0000,!Effect,ماتريکس ي اِفّه 
+Dialogue: Marked=0,00:26:32.14,00:26:36.41,Default,NTP,0000,0000,0000,!Effect,!کن حال رو ملّق 
+Dialogue: Marked=0,00:26:37.69,00:26:41.08,Default,NTP,0000,0000,0000,!Effect,شدم مي زمين پهن بايد من که است بديهي حالا 
+Dialogue: Marked=0,00:26:41.23,00:26:42.59,Default,NTP,0000,0000,0000,!Effect,:است اين مهم سوال ولي 
+Dialogue: Marked=0,00:26:42.73,00:26:45.03,Default,NTP,0000,0000,0000,!Effect,رو پياده در من رفتن فرو از چيزي چه 
+Dialogue: Marked=0,00:26:45.17,00:26:47.36,Default,NTP,0000,0000,0000,!Effect,کرد؟ گيري جلو زمين ي هسته تا 

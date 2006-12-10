@@ -1,0 +1,25 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:14:23.00,00:14:24.44,Default,NTP,0000,0000,0000,!Effect,شروع براي ﻿و 
+Dialogue: Marked=0,00:14:24.61,00:14:27.69,Default,NTP,0000,0000,0000,!Effect,بياوريم وجود به را کيهاني ي فاجعه يک بياييد 
+Dialogue: Marked=0,00:14:27.93,00:14:31.32,Default,NTP,0000,0000,0000,!Effect,اخطاري هيچ بدون و ناگهان کنيد تصور 
+Dialogue: Marked=0,00:14:31.50,00:14:34.58,Default,NTP,0000,0000,0000,!Effect,برود بين از و بشود ناپديد خورشيد 
+Dialogue: Marked=0,00:14:37.94,00:14:41.15,Default,NTP,0000,0000,0000,!Effect,کنيم مشاهده دوباره را اين بگذاريد حالا 
+Dialogue: Marked=0,00:14:41.32,00:14:44.85,Default,NTP,0000,0000,0000,!Effect,گذارد مي سيارات روي اثري چه ،نيوتون قوانين طبق ،ببينيم و 
+Dialogue: Marked=0,00:14:45.41,00:14:49.03,Default,NTP,0000,0000,0000,!Effect,خورشيد شدن ناپديد محض به که کند مي بيني پيش نيوتون 
+Dialogue: Marked=0,00:14:51.02,00:14:54.84,Default,NTP,0000,0000,0000,!Effect,شوند مي خارج خود مدار از بلافاصله سيارات 
+Dialogue: Marked=0,00:14:55.00,00:14:57.75,Default,NTP,0000,0000,0000,!Effect,شوند مي رها فضا در و 
+Dialogue: Marked=0,00:15:02.89,00:15:03.63,Default,NTP,0000,0000,0000,!Effect,ديگر عبارتي به 
+Dialogue: Marked=0,00:15:03.87,00:15:09.31,Default,NTP,0000,0000,0000,!Effect,كند مي عمل مسافتي هر طيّ ،آني طور به كه است نيرويي جاذبه كه پنداشت مي نيوتون 
+Dialogue: Marked=0,00:15:09.49,00:15:13.32,Default,NTP,0000,0000,0000,!Effect,کنيم مي حس را خورشيد شدن ناپديد بلافاصله ما پس 
+Dialogue: Marked=0,00:15:13.79,00:15:17.73,Default,NTP,0000,0000,0000,!Effect,ديد بزرگي مشکل اين در انشتين اما 
+Dialogue: Marked=0,00:15:18.25,00:15:21.94,Default,NTP,0000,0000,0000,!Effect,گرفت نشأت نور با او کار از مشکل اين و 

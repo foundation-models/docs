@@ -1,0 +1,31 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:34:37.50,00:34:40.57,Default,NTP,0000,0000,0000,!Effect,خودمان جهان در حتي ﻿و 
+Dialogue: Marked=0,00:34:40.60,00:34:42.60,Default,NTP,0000,0000,0000,!Effect,...دارد احتمال گويد مي کوانتوم مکانيک 
+Dialogue: Marked=0,00:34:43.00,00:34:49.64,Default,NTP,0000,0000,0000,!Effect,بيفتند اتفاق ،اند ممکن غير کنيم مي فکر که چيزهايي که
+Dialogue: Marked=0,00:34:50.00,00:34:51.00,Default,NTP,0000,0000,0000,!Effect,مثلاً 
+Dialogue: Marked=0,00:34:51.15,00:34:56.20,Default,NTP,0000,0000,0000,!Effect,...شوند رد موانعي و ديوارها از ذرات دارد احتمال 
+Dialogue: Marked=0,00:34:56.86,00:34:59.80,Default,NTP,0000,0000,0000,!Effect,آيند مي نفوذ قابل غير نظرمان به که 
+Dialogue: Marked=0,00:34:59.99,00:35:04.41,Default,NTP,0000,0000,0000,!Effect,کنم عبور جامدي ديوار از بتوانم من که هست احتمالي حتي 
+Dialogue: Marked=0,00:35:04.50,00:35:06.60,Default,NTP,0000,0000,0000,!Effect,دهد مي نشان کوانتوم محاسبات حالا 
+Dialogue: Marked=0,00:35:06.60,00:35:11.68,Default,NTP,0000,0000,0000,!Effect,است کم آنقدر ،روزمرّه دنياي در ،اين احتمال که 
+Dialogue: Marked=0,00:35:11.84,00:35:15.05,Default,NTP,0000,0000,0000,!Effect,دهم فشار اينجا اَبَد تا بايد من که 
+Dialogue: Marked=0,00:35:15.05,00:35:17.65,Default,NTP,0000,0000,0000,!Effect,باشم داشته شدن رد براي خوبي شانس تا 
+Dialogue: Marked=0,00:35:20.00,00:35:24.90,Default,NTP,0000,0000,0000,!Effect,افتند مي اتفاق هميشه ها چيز جور اين ،اينجا ولي 
+Dialogue: Marked=0,00:35:25.60,00:35:29.90,Default,NTP,0000,0000,0000,!Effect,،کنيد رها دنيا مورد در را تان قبلي هاي فرضيه بگيريد ياد بايد 
+Dialogue: Marked=0,00:35:30.00,00:35:31.95,Default,NTP,0000,0000,0000,!Effect,کنيد درک را کوانتوم مکانيک تا 
+Dialogue: Marked=0,00:35:32.17,00:35:39.64,Default,NTP,0000,0000,0000,!Effect,دارم؟ کوانتوم از عميقي شهود کنم مي احساس خودم من ،درونم در 
+Dialogue: Marked=0,00:35:39.70,00:35:41.12,Default,NTP,0000,0000,0000,!Effect,...نه 
+Dialogue: Marked=0,00:35:42.53,00:35:44.26,Default,NTP,0000,0000,0000,!Effect,طور همين هم انشتين و 
+Dialogue: Marked=0,00:35:45.87,00:35:52.26,Default,NTP,0000,0000,0000,!Effect,کند مي رفتار اي بيني پيش قابل طريق به عالم که نداد دست از را ايمانش وقت هيچ او 
+Dialogue: Marked=0,00:35:53.18,00:35:58.51,Default,NTP,0000,0000,0000,!Effect,کرد حساب شود مي را شد خواهد چه اينکه احتمال فقط که ذهنيت اين 
+Dialogue: Marked=0,00:35:59.34,00:36:03.19,Default,NTP,0000,0000,0000,!Effect,کرد مي مقابله آن با عميقاً انشتين که بود چيزي

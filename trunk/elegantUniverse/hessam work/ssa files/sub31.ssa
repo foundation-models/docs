@@ -1,0 +1,28 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:46:52.00,00:46:54.72,Default,NTP,0000,0000,0000,!Effect,:اينجاست سوال ﻿حالا 
+Dialogue: Marked=0,00:46:55.29,00:47:00.03,Default,NTP,0000,0000,0000,!Effect,دهد مي رخ چه ها چال سياه اعماق در ،بفهميد خواهيد مي اگر 
+Dialogue: Marked=0,00:47:00.26,00:47:04.31,Default,NTP,0000,0000,0000,!Effect,شده فشرده ريز ي دانه يک ي اندازه تا ستاره يک کل که ؛جايي
+Dialogue: Marked=0,00:47:04.48,00:47:09.47,Default,NTP,0000,0000,0000,!Effect,است؟ سنگين شديداً چون ،کنيد مي استفاده عام نسبيت از آيا
+Dialogue: Marked=0,00:47:09.69,00:47:14.40,Default,NTP,0000,0000,0000,!Effect,است؟ ريز خيلي چون ،کوانتوم مکانيک از يا 
+Dialogue: Marked=0,00:47:14.84,00:47:16.94,Default,NTP,0000,0000,0000,!Effect,جاست همين مشکل خوب 
+Dialogue: Marked=0,00:47:17.37,00:47:21.95,Default,NTP,0000,0000,0000,!Effect,کوچک هم و است سنگين هم که ،چال سياه يک مرکز براي چون
+Dialogue: Marked=0,00:47:22.15,00:47:25.84,Default,NTP,0000,0000,0000,!Effect,کنيد نظر صرف تئوري دو همزمان ي استفاده از توانيد نمي 
+Dialogue: Marked=0,00:47:26.43,00:47:31.03,Default,NTP,0000,0000,0000,!Effect,گذاريد مي هم کنار چال سياه در را تئوري دو که هنگامي و
+Dialogue: Marked=0,00:47:31.88,00:47:34.77,Default,NTP,0000,0000,0000,!Effect,دهند مي منطقي غير هاي بيني پيش ،پاشند مي هم از ،کنند مي خورد و زد 
+Dialogue: Marked=0,00:47:34.92,00:47:38.35,Default,NTP,0000,0000,0000,!Effect,بدهد معني بايد ،نيست منطقي غير ما عالم و 
+Dialogue: Marked=0,00:47:38.86,00:47:41.26,Default,NTP,0000,0000,0000,!Effect,کند مي کار کوچک چيزهاي براي کوانتوم 
+Dialogue: Marked=0,00:47:41.50,00:47:44.61,Default,NTP,0000,0000,0000,!Effect,کند مي کار ها کهکشان و ها ستاره براي نسبيت و
+Dialogue: Marked=0,00:47:44.96,00:47:47.62,Default,NTP,0000,0000,0000,!Effect,...کهکشانها و ،کوچک چيزهاي ،اتمها ولي
+Dialogue: Marked=0,00:47:47.82,00:47:49.20,Default,NTP,0000,0000,0000,!Effect,عالمند يک در همه 
+Dialogue: Marked=0,00:47:49.56,00:47:54.42,Default,NTP,0000,0000,0000,!Effect,کند کار چيز همه براي که ،باشد داشته وجود توصيف يک بايد پس
+Dialogue: Marked=0,00:47:53.68,00:47:56.29,Default,NTP,0000,0000,0000,!Effect,ها ستاره براي يکي و باشيم داشته اتمها براي توصيف يک توانيم نمي پس 

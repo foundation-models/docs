@@ -1,0 +1,29 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:37:18.00,00:37:20.06,Default,NTP,0000,0000,0000,!Effect,١٩۳۰ ي دهه ﻿تا 
+Dialogue: Marked=0,00:37:20.17,00:37:23.99,Default,NTP,0000,0000,0000,!Effect,بود مانده نتيجه بي ،وحدت براي اينشتين تلاش 
+Dialogue: Marked=0,00:37:25.21,00:37:29.50,Default,NTP,0000,0000,0000,!Effect,کرد مي آشکار را اتم رموز کوانتوم مکانيک که حالي در 
+Dialogue: Marked=0,00:37:30.37,00:37:33.62,Default,NTP,0000,0000,0000,!Effect,الکترومغناطيس و جاذبه که يافتند دانشمندان 
+Dialogue: Marked=0,00:37:33.77,00:37:37.42,Default,NTP,0000,0000,0000,!Effect,نيستند عالم بر حاکم نيروهاي تنها 
+Dialogue: Marked=0,00:37:38.00,00:37:41.40,Default,NTP,0000,0000,0000,!Effect,کردند مي کاوش را اتم ساختار که حالي در
+Dialogue: Marked=0,00:37:41.70,00:37:44.00,Default,NTP,0000,0000,0000,!Effect,کردند کشف ديگر نيروي دو ها آن 
+Dialogue: Marked=0,00:37:45.55,00:37:51.10.89,Default,NTP,0000,0000,0000,!Effect,کرد مي عمل چسب مثل که «قوي اي هسته نيروي» به ملقّّب يکي 
+Dialogue: Marked=0,00:37:51.15,00:37:54.10,Default,NTP,0000,0000,0000,!Effect,داشت مي نگه هم کنار را اتم هر ي هسته اجزاي و 
+Dialogue: Marked=0,00:37:54.60,00:37:56.90,Default,NTP,0000,0000,0000,!Effect,چسباند مي ها نوترون کنار را ها پروتون و 
+Dialogue: Marked=0,00:37:58.32,00:38:02.10,Default,NTP,0000,0000,0000,!Effect,ضعيف ي هسته نيروي نام به ديگري و 
+Dialogue: Marked=0,00:38:02.30,00:38:05.00,Default,NTP,0000,0000,0000,!Effect,شوند تبديل پروتون به ها نوترون گذاشت مي که 
+Dialogue: Marked=0,00:38:05.62,00:38:08.00,Default,NTP,0000,0000,0000,!Effect,شود زايي پرتو فرآيند اين در و 
+Dialogue: Marked=0,00:38:08.59,00:38:10.30,Default,NTP,0000,0000,0000,!Effect,کوانتومي مقياس در 
+Dialogue: Marked=0,00:38:10.40,00:38:12.75,Default,NTP,0000,0000,0000,!Effect,«جاذبه» شناسيم؛ مي بيشتر ما که نيرويي 
+Dialogue: Marked=0,00:38:12.82,00:38:19.00,Default,NTP,0000,0000,0000,!Effect,بود گرفته قرار الشّعاع تحت ديگر تاي دو و الکترومغناطيس توسط 
+Dialogue: Marked=0,00:38:20.80,00:38:24.05,Default,NTP,0000,0000,0000,!Effect,باشند مبهم کمي ضعيف و قوي نيروهاي است ممکن حالا 
+Dialogue: Marked=0,00:38:24.15,00:38:27.95,Default,NTP,0000,0000,0000,!Effect,داريم آشنايي عظيمشان قدرت با ما ي همه ديگر طرفي از ولي 

@@ -1,0 +1,27 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:20:53.00,00:20:58.69,Default,NTP,0000,0000,0000,!Effect,...ورتر اون مايل هزارها ، ربا آهن يک به تلگراف سيم در شده فرستاده الکتريکي پالس ﻿يک 
+Dialogue: Marked=0,00:20:58.87,00:21:02.97,Default,NTP,0000,0000,0000,!Effect,آورد مي وجود به را مورس آشناي هاي نقطه و خط 
+Dialogue: Marked=0,00:21:03.14,00:21:06.26,Default,NTP,0000,0000,0000,!Effect,شوند منتقل ها قاره طول در پيامها داد مي اجازه که 
+Dialogue: Marked=0,00:21:06.41,00:21:08.84,Default,NTP,0000,0000,0000,!Effect,ثانيه از کسري در فقط 
+Dialogue: Marked=0,00:21:10.34,00:21:12.95,Default,NTP,0000,0000,0000,!Effect,بود موثر تلگراف که اين با 
+Dialogue: Marked=0,00:21:13.12,00:21:19.34,Default,NTP,0000,0000,0000,!Effect,ماند معمائي آن محرک ي پايه علوم ولي 
+Dialogue: Marked=0,00:21:22.02,00:21:26.32,Default,NTP,0000,0000,0000,!Effect,ماکسوِل اسکاتلندي؛ دانشمندِ براي ولي 
+Dialogue: Marked=0,00:21:26.47,00:21:30.92,Default,NTP,0000,0000,0000,!Effect,مغناطيس و الکتريسيته بين ارتباط 
+Dialogue: Marked=0,00:21:31.07,00:21:34.04,Default,NTP,0000,0000,0000,!Effect,بود مشخص طبيعت در قدر آن 
+Dialogue: Marked=0,00:21:34.19,00:21:38.83,Default,NTP,0000,0000,0000,!Effect,باشد داشته وحدت که طلبيد مي 
+Dialogue: Marked=0,00:21:40.41,00:21:44.04,Default,NTP,0000,0000,0000,!Effect,برويد کوه بالاي برق و رعد هنگام در اگر 
+Dialogue: Marked=0,00:21:44.21,00:21:50.26,Default,NTP,0000,0000,0000,!Effect,شويد مي مغناطيس و الکتريسيته نزديک ارتباط متوجه 
+Dialogue: Marked=0,00:21:50.97,00:21:53.33,Default,NTP,0000,0000,0000,!Effect,کند حرکت باردار ذرات از جرياني وقتي 
+Dialogue: Marked=0,00:21:53.46,00:21:54.57,Default,NTP,0000,0000,0000,!Effect,برق و رعد در مثلاً
+Dialogue: Marked=0,00:21:54.73,00:21:56.98,Default,NTP,0000,0000,0000,!Effect,شود مي ايجاد الکتريکي ميدان يک 
+Dialogue: Marked=0,00:21:57.10,00:22:00.07,Default,NTP,0000,0000,0000,!Effect,ببينيد وضوح به نما قطب در را اين توانيد مي که 

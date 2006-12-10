@@ -1,0 +1,27 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:23:27.50,00:23:29.46,Default,NTP,0000,0000,0000,!Effect,که داشت اعتقاد ﻿اينشتين 
+Dialogue: Marked=0,00:23:29.58,00:23:32.15,Default,NTP,0000,0000,0000,!Effect,بود فيزيک ي شادمانه هاي لحظه از يکي اين 
+Dialogue: Marked=0,00:23:32.15,00:23:35.20,Default,NTP,0000,0000,0000,!Effect,پسنديد خيلي را ماکسول کار اينشتين 
+Dialogue: Marked=0,00:23:36.96,00:23:41.30,Default,NTP,0000,0000,0000,!Effect,مغناطيس و الکتريسيته يافتن وحدت از پس سال پنجاه تقريبا 
+Dialogue: Marked=0,00:23:41.40,00:23:43.20,Default,NTP,0000,0000,0000,!Effect,داشت اطمينان اينشتين 
+Dialogue: Marked=0,00:23:43.97,00:23:46.50,Default,NTP,0000,0000,0000,!Effect,را اش جاذبه جديد تئوري بتواند اگر که 
+Dialogue: Marked=0,00:23:46.50,00:23:48.50,Default,NTP,0000,0000,0000,!Effect,دهد وحدت ماکسول الکترومغناطيس با 
+Dialogue: Marked=0,00:23:48.65,00:23:51.70,Default,NTP,0000,0000,0000,!Effect,کند پيدا اي اَبَرمعادله توانست مي 
+Dialogue: Marked=0,00:23:51.86,00:23:53.30,Default,NTP,0000,0000,0000,!Effect,کرد؛ مي توصيف را چيز همه که 
+Dialogue: Marked=0,00:23:53.30,00:23:55.20,Default,NTP,0000,0000,0000,!Effect,را عالم تمام 
+Dialogue: Marked=0,00:23:56.10,00:24:00.02,Default,NTP,0000,0000,0000,!Effect,،عالم که داشت اعتقاد اينشتين که است واضح 
+Dialogue: Marked=0,00:24:00.18,00:24:05.20,Default,NTP,0000,0000,0000,!Effect,دارد خود عملکرد در بزرگي و زيبا نظم يک 
+Dialogue: Marked=0,00:24:06.17,00:24:09.23,Default,NTP,0000,0000,0000,!Effect,بود وحدت پي در چرا که سوالتان جواب پس 
+Dialogue: Marked=0,00:24:09.41,00:24:11.55,Default,NTP,0000,0000,0000,!Effect,که باشد اين کنم مي گمان 
+Dialogue: Marked=0,00:24:11.76,00:24:17.53,Default,NTP,0000,0000,0000,!Effect,بفهمد را خدا ذهن ،خواست مي که بود هايي دان فيزيک اون از يکي اينشتين 
+Dialogue: Marked=0,00:24:17.75,00:24:21.12,Default,NTP,0000,0000,0000,!Effect,حقيقت تمام يعني 

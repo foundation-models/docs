@@ -1,0 +1,30 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:33:19.00,00:33:20.87,Default,NTP,0000,0000,0000,!Effect,لطفاً نارنجي ﻿آب 
+Dialogue: Marked=0,00:33:21.27,00:33:22.78,Default,NTP,0000,0000,0000,!Effect,کنم مي سعي 
+Dialogue: Marked=0,00:33:23.10,00:33:24.58,Default,NTP,0000,0000,0000,!Effect,کنم مي سعي :گه مي
+Dialogue: Marked=0,00:33:27.25,00:33:31.65,Default,NTP,0000,0000,0000,!Effect,بدهند بِهِشان قطعي دستور مردم که ،ندارند عادت خيلي آنها ببينيد 
+Dialogue: Marked=0,00:33:31.75,00:33:35.55,Default,NTP,0000,0000,0000,!Effect,است شانس ي سلطه زير چيز همه اينجا چون 
+Dialogue: Marked=0,00:33:35.60,00:33:36.90,Default,NTP,0000,0000,0000,!Effect,بخواهم نارنجي نوشيدني من وقتي 
+Dialogue: Marked=0,00:33:36.90,00:33:40.66,Default,NTP,0000,0000,0000,!Effect,بگيرم آنرا من که است خاصي احتمال يک فقط 
+Dialogue: Marked=0,00:33:45.77,00:33:50.12,Default,NTP,0000,0000,0000,!Effect,شويم ناراحت نتيجه يک از که ندارد دليلي هيچ و 
+Dialogue: Marked=0,00:33:50.27,00:33:53.54,Default,NTP,0000,0000,0000,!Effect,ها احتمال از کدام هر که کند مي اظهار کوانتوم مکانيک چون 
+Dialogue: Marked=0,00:33:53.85,00:33:58.59,Default,NTP,0000,0000,0000,!Effect,افتند مي اتفاق واقعاً ،قرمز آب يا زرد آب دريافتِ مثلاً 
+Dialogue: Marked=0,00:33:58.74,00:34:02.54,Default,NTP,0000,0000,0000,!Effect,دهند مي رخ ما موازي هاي عالم در در ولي 
+Dialogue: Marked=0,00:34:02.81,00:34:07.94,Default,NTP,0000,0000,0000,!Effect,رسد مي نظر به واقعي مقدار همين ،آن ساکنين براي که هايي عالم 
+Dialogue: Marked=0,00:34:09.32,00:34:11.11,Default,NTP,0000,0000,0000,!Effect,هست احتمال هزارتا اگر 
+Dialogue: Marked=0,00:34:11.27,00:34:14.90,Default,NTP,0000,0000,0000,!Effect,داد خواهد رخ کدامِشان بگويد نتواند کوانتوم مکانيک و 
+Dialogue: Marked=0,00:34:15.07,00:34:17.70,Default,NTP,0000,0000,0000,!Effect,داد خواهند رخ هزارتا هر پس 
+Dialogue: Marked=0,00:34:18.45,00:34:21.73,Default,NTP,0000,0000,0000,!Effect,است اشتباه :بگوييد و بخنديد ،آره 
+Dialogue: Marked=0,00:34:22.19,00:34:25.15,Default,NTP,0000,0000,0000,!Effect,که بودند فيزيک در ها چيز خيلي ولي 
+Dialogue: Marked=0,00:34:25.30,00:34:30.00,Default,NTP,0000,0000,0000,!Effect,بودند درست ولي ،کردند مي اش مسخره مردم خودش زمان در 
+Dialogue: Marked=0,00:34:30.47,00:34:34.30,Default,NTP,0000,0000,0000,!Effect,است اشتباه گوييد مي وقتي ،کنيد ملاحظه بيشتر خرده يه بايد 

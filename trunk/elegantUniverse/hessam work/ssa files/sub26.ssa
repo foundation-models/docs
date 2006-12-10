@@ -1,0 +1,36 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:40:09.60,00:40:12.33,Default,NTP,0000,0000,0000,!Effect,چي؟ گرانش ﻿ولي 
+Dialogue: Marked=0,00:40:12.49,00:40:14.77,Default,NTP,0000,0000,0000,!Effect,...اينشتين عام نسبيت 
+Dialogue: Marked=0,00:40:14.95,00:40:18.74,Default,NTP,0000,0000,0000,!Effect,دارد؟ جايگاهي چه کوانتومي ترازهاي در 
+Dialogue: Marked=0,00:40:20.26,00:40:25.25,Default,NTP,0000,0000,0000,!Effect,...کنند مي کار چگونه ريز ترازهاي در طبيعت هاي نيرو تمام که گويد مي ما به کوانتوم 
+Dialogue: Marked=0,00:40:25.40,00:40:27.63,Default,NTP,0000,0000,0000,!Effect,گرانش جز به... 
+Dialogue: Marked=0,00:40:27.79,00:40:31.15,Default,NTP,0000,0000,0000,!Effect,کند مي کار چگونه جاذبه که ،بياورد در سر توانست نمي کس هيچ اصلاً 
+Dialogue: Marked=0,00:40:31.15,00:40:35.60,Default,NTP,0000,0000,0000,!Effect,شويد مي کوچک زيراتمي ذرات و اتم ي اندازه به وقتي 
+Dialogue: Marked=0,00:40:35.80,00:40:38.08,Default,NTP,0000,0000,0000,!Effect,آورد در سر توانست نمي کس هيچ يعني 
+Dialogue: Marked=0,00:40:38.15,00:40:41.10,Default,NTP,0000,0000,0000,!Effect,را کوانتوم مکانيک و نسبيت چگونه که 
+Dialogue: Marked=0,00:40:41.10,00:40:44.10,Default,NTP,0000,0000,0000,!Effect,داد جا جعبه يک در توان مي 
+Dialogue: Marked=0,00:40:48.17,00:40:48.92,Default,NTP,0000,0000,0000,!Effect,سال ها ده براي 
+Dialogue: Marked=0,00:40:49.10,00:40:52.16,Default,NTP,0000,0000,0000,!Effect,را جاذبه نيروي خواستند موقع هر 
+Dialogue: Marked=0,00:40:52.33,00:40:57.38,Default,NTP,0000,0000,0000,!Effect, کوانتوم زبان ؛همان کنند توصيف ديگر نيروهاي زبان در 
+Dialogue: Marked=0,00:40:57.46,00:40:59.73,Default,NTP,0000,0000,0000,!Effect,شدند مي رو به رو فاجعه با 
+Dialogue: Marked=0,00:41:00.00,00:41:02.10,Default,NTP,0000,0000,0000,!Effect,بگذاريد هم کنار را راضي مدل دو آن کنيد سعي اگر 
+Dialogue: Marked=0,00:41:02.30,00:41:05.15,Default,NTP,0000,0000,0000,!Effect,ندارند صلح هم با ها آن 
+Dialogue: Marked=0,00:41:06.85,00:41:10.95,Default,NTP,0000,0000,0000,!Effect,است نهايت بي دنبالشيد که اي پديده احتمال مثلاً که گيريد مي هايي جواب 
+Dialogue: Marked=0,00:41:11.00,00:41:13.95,Default,NTP,0000,0000,0000,!Effect,است پرت و چرت نيست، درست اين است، مسخره 
+Dialogue: Marked=0,00:41:14.10,00:41:17.30,Default,NTP,0000,0000,0000,!Effect,شد درک که بود نيرويي اولين گرانش چون است، جالبي ي نکته 
+Dialogue: Marked=0,00:41:17.30,00:41:18.95,Default,NTP,0000,0000,0000,!Effect,ولي ولي باشد گيري اندازه قابل که طوري 
+Dialogue: Marked=0,00:41:19.00,00:41:25.29,Default,NTP,0000,0000,0000,!Effect,ماند باقي شان بقيه از متفاوت و جدا هنوز ولي 
+Dialogue: Marked=0,00:41:26.47,00:41:28.51,Default,NTP,0000,0000,0000,!Effect,...روند کار به جا همه بايد طبيعت قوانين 
+Dialogue: Marked=0,00:41:29.00,00:41:32.30,Default,NTP,0000,0000,0000,!Effect,...روند کار به جا همه اينشتين قوانين اگر پس 
+Dialogue: Marked=0,00:41:32.70,00:41:35.31,Default,NTP,0000,0000,0000,!Effect,...روند کار به جا همه نيز کوانتوم مکانيک قوانين و 
+Dialogue: Marked=0,00:41:36.49,00:41:39.65,Default,NTP,0000,0000,0000,!Effect,باشيد داشته متفاوت جا»ي همه» تا دو توانيم نمي خوب 

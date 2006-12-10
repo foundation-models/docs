@@ -1,0 +1,29 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:15:23.00,00:15:26.58,Default,NTP,0000,0000,0000,!Effect,کند نمي حرکت بلافاصله نور دانست مي اينشتين 
+Dialogue: Marked=0,00:15:26.89,00:15:31.71,Default,NTP,0000,0000,0000,!Effect,خورشيد نور تا کشد مي طول دقيقه ٨ اتفاقاً 
+Dialogue: Marked=0,00:15:31.86,00:15:35.86,Default,NTP,0000,0000,0000,!Effect,برسد زمين به تا ،کند طي را مايل ميليون ٩٨
+Dialogue: Marked=0,00:15:36.44,00:15:40.08,Default,NTP,0000,0000,0000,!Effect,جاذبه حتي چيز هيچ کرد ثابت چون و 
+Dialogue: Marked=0,00:15:40.23,00:15:43.08,Default,NTP,0000,0000,0000,!Effect,کند حرکت سريعتر نور از تواند نمي 
+Dialogue: Marked=0,00:15:43.53,00:15:47.51,Default,NTP,0000,0000,0000,!Effect,...شود؟ خارج خود مدار از توانست مي زمين چطور پس 
+Dialogue: Marked=0,00:15:47.74,00:15:55.81,Default,NTP,0000,0000,0000,!Effect,برسد ما چشم به ،خورشيد نابودي از حاصل تاريکي اينکه از قبل... 
+Dialogue: Marked=0,00:16:00.76,00:16:03.83,Default,NTP,0000,0000,0000,!Effect,سوئيسي شرکتِ جوانِ کارمندِ اين نظر به 
+Dialogue: Marked=0,00:16:04.00,00:16:07.40,Default,NTP,0000,0000,0000,!Effect,بود ممکن غير کرد مي رد را نور سرعت که چيز هر 
+Dialogue: Marked=0,00:16:07.80,00:16:14.15,Default,NTP,0000,0000,0000,!Effect,بود اشتباه ،جاذبه نيوتونيِ ي ساله ۲۵۰ ديدگاه يعني اين و 
+Dialogue: Marked=0,00:16:15.74,00:16:17.29,Default,NTP,0000,0000,0000,!Effect,،کرد مي اشتباه نيوتون اگر 
+Dialogue: Marked=0,00:16:17.48,00:16:19.99,Default,NTP,0000,0000,0000,!Effect,افتند؟ نمي سيارات چرا پس 
+Dialogue: Marked=0,00:16:20.13,00:16:20.91,Default,NTP,0000,0000,0000,!Effect,،باشد يادتان چون 
+Dialogue: Marked=0,00:16:21.04,00:16:23.69,Default,NTP,0000,0000,0000,!Effect,نيوتون معادلات موفقيت 
+Dialogue: Marked=0,00:16:23.83,00:16:28.82,Default,NTP,0000,0000,0000,!Effect,بود ستارگان و سيارات فهميدن براي او جستجوي از 
+Dialogue: Marked=0,00:16:28.95,00:16:33.16,Default,NTP,0000,0000,0000,!Effect,دارند را خودشان مدار سيارات چرا اينکه خصوص به و 
+Dialogue: Marked=0,00:16:34.15,00:16:38.17,Default,NTP,0000,0000,0000,!Effect,کنيد محاسبه را سيارات حرکت توانيد مي نيوتون معادلات با و 
+Dialogue: Marked=0,00:16:38.52,00:16:42.41,Default,NTP,0000,0000,0000,!Effect,کرد مي حل را معما اين بايد اينشتين 

@@ -1,0 +1,29 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:19:48.20,00:19:49.80,Default,NTP,0000,0000,0000,!Effect,کردند مي دنبال را کارهايش ﻿مردم 
+Dialogue: Marked=0,00:19:49.80,00:19:52.13,Default,NTP,0000,0000,0000,!Effect,.بودند منتظر مردم 
+Dialogue: Marked=0,00:19:52.27,00:19:55.95,Default,NTP,0000,0000,0000,!Effect,داد انجام عام نسبيت با که آوري شگفت کار اين خاطر به 
+Dialogue: Marked=0,00:19:56.19,00:20:01.48,Default,NTP,0000,0000,0000,!Effect,جاذبه قوانين طراحي همين 
+Dialogue: Marked=0,00:20:01.67,00:20:04.26,Default,NTP,0000,0000,0000,!Effect,دارد را کار اين تکرار توانايي کردند مي فکر 
+Dialogue: Marked=0,00:20:04.40,00:20:06.30,Default,NTP,0000,0000,0000,!Effect,باشند جريان در خواستند مي مردم و 
+Dialogue: Marked=0,00:20:07.00,00:20:12.50,Default,NTP,0000,0000,0000,!Effect,نشد راضي ،چيز همه اين کردن کسب رغم علي او 
+Dialogue: Marked=0,00:20:12.68,00:20:16.40,Default,NTP,0000,0000,0000,!Effect,:ديد را تري بالا هدف بلافاصله او 
+Dialogue: Marked=0,00:20:16.80,00:20:21.00,Default,NTP,0000,0000,0000,!Effect,ديگر ي شده شناخته نيروي تنها با نسبيتي جاذبه وحدت 
+Dialogue: Marked=0,00:20:21.30,00:20:22.50,Default,NTP,0000,0000,0000,!Effect,«الکترومغناطيس» 
+Dialogue: Marked=0,00:20:22.70,00:20:30.40,Default,NTP,0000,0000,0000,!Effect,بود شده داده وحدت پيش دهه چند که بود نيرويي الکترومغناطيس ،که حالي در
+Dialogue: Marked=0,00:20:30.45,00:20:32.05,Default,NTP,0000,0000,0000,!Effect,...نوزدهم قرن اواسط در 
+Dialogue: Marked=0,00:20:32.70,00:20:34.15,Default,NTP,0000,0000,0000,!Effect,...الکتريسته 
+Dialogue: Marked=0,00:20:34.60,00:20:35.89,Default,NTP,0000,0000,0000,!Effect,...مغناطيس و 
+Dialogue: Marked=0,00:20:36.04,00:20:38.90,Default,NTP,0000,0000,0000,!Effect,بودند کرده جلب خود به را دانشمندان توجه 
+Dialogue: Marked=0,00:20:40.50,00:20:44.00,Default,NTP,0000,0000,0000,!Effect,داشتند جالبي ارتباطات نيرو دو اين 
+Dialogue: Marked=0,00:20:44.30,00:20:48.00,Default,NTP,0000,0000,0000,!Effect,کردند استفاده آن از مورس مثل دانشمنداني که 
+Dialogue: Marked=0,00:20:48.10,00:20:51.50,Default,NTP,0000,0000,0000,!Effect,بردند کار به تلگراف مانند هايي دستگاه در و 

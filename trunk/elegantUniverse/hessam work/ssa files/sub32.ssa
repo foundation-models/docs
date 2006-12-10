@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:47:57.80,00:47:59.41,Default,NTP,0000,0000,0000,!Effect,ريسمان تئوري با ﻿اکنون 
+Dialogue: Marked=0,00:47:59.54,00:48:01.88,Default,NTP,0000,0000,0000,!Effect,ايم يافته راهي کنيم مي گمان ما
+Dialogue: Marked=0,00:48:02.03,00:48:05.96,Default,NTP,0000,0000,0000,!Effect,کنيم متحد «ها بزرگ» تئوريِ با را «ها کوچک» تئوريِ که 
+Dialogue: Marked=0,00:48:06.08,00:48:11.45,Default,NTP,0000,0000,0000,!Effect,ببينيم منطقي جا همه در و ها مقياس ي همه در را عالم و
+Dialogue: Marked=0,00:48:11.90,00:48:16.22,Default,NTP,0000,0000,0000,!Effect,کوچک ذرات سري يک جاي به 
+Dialogue: Marked=0,00:48:16.38,00:48:20.54,Default,NTP,0000,0000,0000,!Effect,عالم چيز همه که گويد مي ريسمان تئوري 
+Dialogue: Marked=0,00:48:20.68,00:48:23.06,Default,NTP,0000,0000,0000,!Effect,مواد ي همه و ها نيرو ي همه 
+Dialogue: Marked=0,00:48:23.38,00:48:25.80,Default,NTP,0000,0000,0000,!Effect,اند شده تشکيل عنصر يک فقط از 
+Dialogue: Marked=0,00:48:25.93,00:48:31.31,Default,NTP,0000,0000,0000,!Effect,انرژي مرتعش ريز هاي رشته 
+Dialogue: Marked=0,00:48:32.09,00:48:34.53,Default,NTP,0000,0000,0000,!Effect,بلرزد مختلفي روشهاي به تواند مي ريسمان يک
+Dialogue: Marked=0,00:48:34.67,00:48:36.15,Default,NTP,0000,0000,0000,!Effect,تواند نمي نقطه يک که حالي در...
+Dialogue: Marked=0,00:48:36.29,00:48:39.02,Default,NTP,0000,0000,0000,!Effect,لرزد مي ريسمان که مختلفي طُرُق و
+Dialogue: Marked=0,00:48:39.20,00:48:42.30,Default,NTP,0000,0000,0000,!Effect,هستند مختلفي بنيادي ذرات ي نماينده 
+Dialogue: Marked=0,00:48:42.51,00:48:44.09,Default,NTP,0000,0000,0000,!Effect,ماند مي ويولين تار مثل
+Dialogue: Marked=0,00:48:44.43,00:48:48.37,Default,NTP,0000,0000,0000,!Effect,کند ارتعاش ويولين هاي تار همانند تواند مي و
+Dialogue: Marked=0,00:48:48.76,00:48:52.19,Default,NTP,0000,0000,0000,!Effect,دهد مي شرح را ذره يک ،صدا هر ،پرده هر
+Dialogue: Marked=0,00:48:52.93,00:48:55.22,Default,NTP,0000,0000,0000,!Effect,دارد انگيزي شگفت وحدت قدرت پس 
+Dialogue: Marked=0,00:48:55.39,00:48:58.75,Default,NTP,0000,0000,0000,!Effect,دهد مي وحدت مختلف ذرات همه اين به نسبت را ما تصور 
+Dialogue: Marked=0,00:48:59.98,00:49:03.13,Default,NTP,0000,0000,0000,!Effect,شود مي کسب مختلف هاي ذره و مختلف هاي نيرو وحدت پس
+Dialogue: Marked=0,00:49:03.30,00:49:05.44,Default,NTP,0000,0000,0000,!Effect,متفاوتي هاي ارتعاش شان همه چون 
+Dialogue: Marked=0,00:49:05.60,00:49:07.43,Default,NTP,0000,0000,0000,!Effect,هستند ساده ريسمان همان از 
+Dialogue: Marked=0,00:49:07.99,00:49:11.65,Default,NTP,0000,0000,0000,!Effect,است عميق هاي نتيجه با ...ساده اي ايده اين
+Dialogue: Marked=0,00:49:12.81,00:49:16.52,Default,NTP,0000,0000,0000,!Effect,دهد مي قول که است اين ريسمان تئوري کار 
+Dialogue: Marked=0,00:49:16.60,00:49:19.95,Default,NTP,0000,0000,0000,!Effect,بفهميم را سوالاتي جواب بتوانيم که
+Dialogue: Marked=0,00:49:20.00,00:49:22.80,Default,NTP,0000,0000,0000,!Effect,باشند علمي سوالاتي کرديم نمي گمان اصلاً که
+Dialogue: Marked=0,00:49:23.60,00:49:25.73,Default,NTP,0000,0000,0000,!Effect,شد شروع چگونه عالم اينکه ي درباره سوالاتي 
+Dialogue: Marked=0,00:49:25.90,00:49:28.45,Default,NTP,0000,0000,0000,!Effect,هست؟ که است اينطوري عالم چرا
+Dialogue: Marked=0,00:49:28.45,00:49:30.30,Default,NTP,0000,0000,0000,!Effect,سطح ترين اصولي در
+Dialogue: Marked=0,00:49:31.03,00:49:34.64,Default,NTP,0000,0000,0000,!Effect,ماست دستان در علمي ي نظريه يک که ذهنيت اين 
+Dialogue: Marked=0,00:49:34.81,00:49:37.01,Default,NTP,0000,0000,0000,!Effect,دهد پاسخ را سوالات ترين اساسي تواند مي که
+Dialogue: Marked=0,00:49:37.16,00:49:38.96,Default,NTP,0000,0000,0000,!Effect,است جذّاب خيلي 
+Dialogue: Marked=0,00:49:39.90,00:49:44.97,Default,NTP,0000,0000,0000,!Effect,هست هم جو ستيزه ،جديد جذابِ تئوري اين ولي
+Dialogue: Marked=0,00:49:45.47,00:49:50.26,Default,NTP,0000,0000,0000,!Effect,کوچکند آنقدر ،باشند داشته وجود اگر ،ها ريسمان
+Dialogue: Marked=0,00:49:50.46,00:49:53.40,Default,NTP,0000,0000,0000,!Effect,هست ها آن ديدن به کمي اميد که

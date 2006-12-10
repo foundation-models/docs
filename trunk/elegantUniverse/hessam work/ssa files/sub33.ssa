@@ -1,0 +1,32 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:49:54.00,00:49:56.81,Default,NTP,0000,0000,0000,!Effect,دارند اساسي مشکل يک ها دان ريسمان تئوري و ريسمان ﻿تئوري 
+Dialogue: Marked=0,00:49:56.97,00:49:58.99,Default,NTP,0000,0000,0000,!Effect,کنيم؟ آزمايش را تئوري اين اصلاً چگونه 
+Dialogue: Marked=0,00:49:59.29,00:50:02.61,Default,NTP,0000,0000,0000,!Effect,کنيم آزمايش را آن معمولي هاي تئوري ي بقيه مثل نتوانيم اگر 
+Dialogue: Marked=0,00:50:02.90,00:50:06.50,Default,NTP,0000,0000,0000,!Effect,جاست همين مشکل و ...است فلسفه نيست؛ علم 
+Dialogue: Marked=0,00:50:07.00,00:50:11.49,Default,NTP,0000,0000,0000,!Effect,بکند آزمايشي قابل بيني پيش نتواند ريسمان تئوري اگر 
+Dialogue: Marked=0,00:50:12.05,00:50:14.40,Default,NTP,0000,0000,0000,!Effect,کند باورش نبايد کس هيچ پس 
+Dialogue: Marked=0,00:50:15.90,00:50:16.85,Default,NTP,0000,0000,0000,!Effect,ديگر طرفي از 
+Dialogue: Marked=0,00:50:16.90,00:50:19.93,Default,NTP,0000,0000,0000,!Effect,هست ها چيز اين در زيبايي نوعي
+Dialogue: Marked=0,00:50:20.13,00:50:25.10,Default,NTP,0000,0000,0000,!Effect,نظري فيزيک تکامل تاريخ گرفتن نظر در با و 
+Dialogue: Marked=0,00:50:26.33,00:50:28.16,Default,NTP,0000,0000,0000,!Effect,که است درک قابل خيلي
+Dialogue: Marked=0,00:50:29.09,00:50:33.30,Default,NTP,0000,0000,0000,!Effect,درآيند آب از درست اينها از قسمتي حدّاقل يا همه 
+Dialogue: Marked=0,00:50:34.05,00:50:35.75,Default,NTP,0000,0000,0000,!Effect,ديگر سال صد تا ،کنم مي گمان من 
+Dialogue: Marked=0,00:50:35.90,00:50:37.40,Default,NTP,0000,0000,0000,!Effect,...خاص ي دوره اين
+Dialogue: Marked=0,00:50:37.55,00:50:40.58,Default,NTP,0000,0000,0000,!Effect,نظري فيزيک هاي جوان ترين باهوش که زماني
+Dialogue: Marked=0,00:50:40.60,00:50:42.30,Default,NTP,0000,0000,0000,!Effect,کردند مي کار ريسمان ي نظريه روي
+Dialogue: Marked=0,00:50:42.30,00:50:45.85,Default,NTP,0000,0000,0000,!Effect,ماند خواهد ياد به اي قهرمانانه عصر عنوان به
+Dialogue: Marked=0,00:50:46.03,00:50:49.19,Default,NTP,0000,0000,0000,!Effect,شدند موفق و کردند سعي ،ها دان ريسمان تئوري که اي دوره
+Dialogue: Marked=0,00:50:49.34,00:50:53.56,Default,NTP,0000,0000,0000,!Effect,گيرد بر در را طبيعت هاي پديده تمام که ،بسازند متحدي تئوري که
+Dialogue: Marked=0,00:50:54.14,00:50:56.93,Default,NTP,0000,0000,0000,!Effect,بماند ياد به انگيز غم و ناموفق اي دوره عنوان به شايد ديگر طرفي از 
+Dialogue: Marked=0,00:50:57.11,00:51:00.90,Default,NTP,0000,0000,0000,!Effect,باشد اولي هاي مايه در چيزي يک که است اين حدسم
+Dialogue: Marked=0,00:51:01.34,00:51:04.90,Default,NTP,0000,0000,0000,!Effect,دهم مي قطعي جواب بپرسي من از ديگر سال صد ولي

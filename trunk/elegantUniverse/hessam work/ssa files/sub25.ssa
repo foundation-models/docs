@@ -1,0 +1,31 @@
+﻿[Script Info]
+Title: 
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Nazanin,24,253436,253436,253436,0,-1,0,1,2,2,2,30,30,25,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,00:38:28.00,00:38:32.38,Default,NTP,0000,0000,0000,!Effect,١٩٤٥ ژولاي شانزدهم صبح ٥:٢٩ ﻿ساعت 
+Dialogue: Marked=0,00:38:32.60,00:38:37.11,Default,NTP,0000,0000,0000,!Effect,شد آشکار ،داد تغيير را تاريخ مسير که کاري انجام با ،قدرت آن 
+Dialogue: Marked=0,00:38:38.12,00:38:40.30,Default,NTP,0000,0000,0000,!Effect,مکسيکو نو بيابانِ وسط در 
+Dialogue: Marked=0,00:38:40.61,00:38:46.45,Default,NTP,0000,0000,0000,!Effect,هِرَم اين بالاي فوت ١٠٠ تقريباً ،فولادي برج يک بالاي 
+Dialogue: Marked=0,00:38:46.60,00:38:49.15,Default,NTP,0000,0000,0000,!Effect,شد منفجر اتمي بمب اولين 
+Dialogue: Marked=0,00:38:49.10,00:38:52.15,Default,NTP,0000,0000,0000,!Effect,نبود بيش متر يکي-دو آن قطر 
+Dialogue: Marked=0,00:38:52.44,00:39:01.28,Default,NTP,0000,0000,0000,!Effect,داشت تخريب قدرت TNT تُن هزار ٢٠ ي اندازه به ولي 
+Dialogue: Marked=0,00:39:06.06,00:39:07.84,Default,NTP,0000,0000,0000,!Effect,مهيب انفجار آن با 
+Dialogue: Marked=0,00:39:07.99,00:39:11.86,Default,NTP,0000,0000,0000,!Effect,کردند آزاد را اي هسته قوي نيروي دانشمندان 
+Dialogue: Marked=0,00:39:12.02,00:39:18.59,Default,NTP,0000,0000,0000,!Effect,چسباند مي هم به اتم ي هسته در را ها پروتون و ها نوترون که نيرويي 
+Dialogue: Marked=0,00:39:19.31,00:39:22.96,Default,NTP,0000,0000,0000,!Effect,اتم شکافتن و آنها هاي پيوند شکستن با 
+Dialogue: Marked=0,00:39:23.25,00:39:31.12,Default,NTP,0000,0000,0000,!Effect,شد آزاد اي نکردني باور و عظيم مخرّّب انرژي 
+Dialogue: Marked=0,00:39:35.33,00:39:41.21,Default,NTP,0000,0000,0000,!Effect,ببينيم ديگر اي هسته نيروي در را انفجار آن اثرات توانيم مي هنوز 
+Dialogue: Marked=0,00:39:41.41,00:39:42.59,Default,NTP,0000,0000,0000,!Effect,اي هسته «ضعيف» نيروي 
+Dialogue: Marked=0,00:39:42.89,00:39:45.56,Default,NTP,0000,0000,0000,!Effect,است زايي پرتو باعث نيرو اين چون 
+Dialogue: Marked=0,00:39:45.88,00:39:48.16,Default,NTP,0000,0000,0000,!Effect,بعد سال ٥٠ از بيش هم هنوز و 
+Dialogue: Marked=0,00:39:48.35,00:39:53.65,Default,NTP,0000,0000,0000,!Effect,!است معمول حدّ برابر ١٠ ،بر و دور اين زايي پرتو ميزان 
+Dialogue: Marked=0,00:39:55.20,00:39:59.07,Default,NTP,0000,0000,0000,!Effect,گرانش و الکترومغناطيس با مقايسه در اينکه با پس 
+Dialogue: Marked=0,00:39:59.23,00:40:02.84,Default,NTP,0000,0000,0000,!Effect,،کنند مي اثر کم بسيار هاي فاصله در اي هسته نيروهاي 
+Dialogue: Marked=0,00:40:03.01,00:40:07.18,Default,NTP,0000,0000,0000,!Effect,دارند اهمّيّت مقدار همان به ما ي روزمرّه زندگي در ولي 
